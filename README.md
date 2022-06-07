@@ -1,5 +1,5 @@
 # Virtual-Instrument-Diagrams
-All SVG images that make up the HeNDI spectrometer
+All SVG images that make up the virtual spectrometer
 
 
 ## Images
