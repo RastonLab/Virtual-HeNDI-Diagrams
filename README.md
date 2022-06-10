@@ -17,6 +17,7 @@ Changes to names are subject to change (and encouraged) for identification purpo
 
 ### Non-Existent
 [Issue #7 For HeNDI](https://github.com/RastonLab/Virtual-HeNDI-Spectrometer/issues/7)
+
 [Dr. Raston's reference images here](https://github.com/RastonLab/Virtual-HeNDI-Spectrometer/issues/2)
 * Ion Gauge
 * Diffusion Pump
