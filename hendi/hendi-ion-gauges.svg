@@ -31,13 +31,13 @@
      inkscape:lockguides="false"
      inkscape:zoom="3.2203389"
      inkscape:cx="246.86843"
-     inkscape:cy="345.46053"
-     inkscape:window-width="2400"
-     inkscape:window-height="1271"
+     inkscape:cy="228.39211"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1307"
+     inkscape:current-layer="layer4"
      showguides="true"
      showborder="true">
     <inkscape:grid
@@ -176,7 +176,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#999999;stroke:#000000;stroke-width:1.00001;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -533,43 +533,41 @@
        id="g1276"
        inkscape:label="ion gauge 1 outline"
        transform="matrix(1.0958429,0,0,1.0429709,-7.3196053,-9.7707104)"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          style="fill:#000000;fill-opacity:1;stroke-width:1.00523"
          id="rect1272"
          width="10.182148"
          height="10.24154"
-         x="197.80338"
-         y="181.82796" />
+         x="178.25101"
+         y="214.87627" />
       <rect
          style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.995758"
          id="rect1274"
          width="19.492683"
          height="10.154455"
-         x="193.08711"
-         y="172.13986" />
+         x="173.53474"
+         y="205.18817" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="g1282"
        inkscape:label="ion gauge 1 base"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          style="opacity:1;fill:#999999;fill-opacity:1"
          id="rect1278"
          width="10.076354"
          height="10.24154"
-         x="209.94736"
-         y="179.89168" />
+         x="188.52104"
+         y="214.36011" />
       <rect
          style="display:inline;opacity:1;fill:#999999;fill-opacity:1"
          id="rect1280"
          width="20.48308"
          height="9.7459822"
-         x="204.66141"
-         y="170.14569" />
+         x="183.23509"
+         y="204.61412" />
     </g>
   </g>
   <g
