@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300.00001"
+   version="1.1"
+   id="svg3880"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="hendi-ocs-canister.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3882"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.187298"
+     inkscape:cx="173.27314"
+     inkscape:cy="134.41241"
+     inkscape:window-width="1280"
+     inkscape:window-height="772"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3877">
+    <rect
+       x="22.105742"
+       y="415.87717"
+       width="21.899145"
+       height="53.508289"
+       id="rect1769" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#800000;stroke-width:0.697593"
+       id="path836"
+       cx="165.04381"
+       cy="190.60387"
+       rx="15.57327"
+       ry="4.2389007" />
+    <rect
+       style="fill:#800000;stroke-width:0.694687"
+       id="rect937"
+       width="29.224394"
+       height="61.766834"
+       x="150.42091"
+       y="129.43874" />
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.694687"
+       id="rect1303"
+       width="6.8903041"
+       height="19.680609"
+       x="161.82556"
+       y="99.463676"
+       inkscape:label="rect1303" />
+    <ellipse
+       style="fill:#800000;stroke-width:0.718186"
+       id="path1017"
+       cx="165.02243"
+       cy="130.25941"
+       rx="14.601511"
+       ry="13.927815"
+       inkscape:label="path1017" />
+    <path
+       sodipodi:type="star"
+       style="fill:#4d4d4d"
+       id="path1413"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="42.470413"
+       sodipodi:cy="344.39645"
+       sodipodi:r1="13.513313"
+       sodipodi:r2="10.9325"
+       sodipodi:arg1="0.92729522"
+       sodipodi:arg2="1.5556137"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 50.578401,355.2071 -15.884021,0.24118 -5.137808,-15.03207 12.708682,-9.53151 12.992205,9.14127 z"
+       inkscape:transform-center-x="0.039013961"
+       inkscape:transform-center-y="-0.3845617"
+       transform="matrix(0.61538459,0,0,0.31266303,139.01628,-10.2716)" />
+    <rect
+       style="fill:#4d4d4d"
+       id="rect1415"
+       width="15.784025"
+       height="3.2722981"
+       x="157.31334"
+       y="105.57265" />
+    <rect
+       style="fill:#666666;stroke-width:0.999996"
+       id="rect1697"
+       width="25.617868"
+       height="57.020416"
+       x="152.26318"
+       y="132.50398" />
+    <text
+       xml:space="preserve"
+       id="text1767"
+       style="font-size:13.3333px;white-space:pre;shape-inside:url(#rect1769);display:inline;fill:#000000"
+       transform="translate(137.64726,-280.73689)"><tspan
+         x="22.105469"
+         y="428.04133"
+         id="tspan8906">O
+</tspan><tspan
+         x="22.105469"
+         y="444.70795"
+         id="tspan8908">C
+</tspan><tspan
+         x="22.105469"
+         y="461.37458"
+         id="tspan8910">S
+</tspan><tspan
+         x="22.105469"
+         y="481.54914"
+         id="tspan8914"><tspan
+           dx="0 9.3098726"
+           id="tspan8912">CS</tspan></tspan></text>
+  </g>
+</svg>
