@@ -5,6 +5,8 @@ All SVG images that make up the virtual spectrometer
 
 * [Basic witeboard image and description of each component](https://github.com/RastonLab/Virtual-HeNDI-Spectrometer/issues/7)
 
+[](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/93e977282b201d8604eba18f9ce917eb23692859/hendi/hendi-base.svg)
+
 ## Images
 Changes to names are subject to change (and encouraged) for identification purposes as more "spectrometer components" are added to the diagram
 * Foreground Base (hendi-base-foreground)
