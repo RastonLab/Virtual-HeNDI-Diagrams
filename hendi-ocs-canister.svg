@@ -16,25 +16,31 @@
   <sodipodi:namedview
      id="namedview3882"
      pagecolor="#505050"
-     bordercolor="#eeeeee"
+     bordercolor="#f1ebeb"
      borderopacity="1"
      inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pageopacity="0.02352941"
+     inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="2.187298"
-     inkscape:cx="173.27314"
-     inkscape:cy="134.41241"
+     inkscape:zoom="2.4709128"
+     inkscape:cx="153.99167"
+     inkscape:cy="187.38015"
      inkscape:window-width="1280"
-     inkscape:window-height="772"
+     inkscape:window-height="800"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs3877">
+    <rect
+       x="155.81286"
+       y="136.79155"
+       width="20.235437"
+       height="51.802718"
+       id="rect8988" />
     <rect
        x="22.105742"
        y="415.87717"
@@ -110,25 +116,19 @@
        y="132.50398" />
     <text
        xml:space="preserve"
-       id="text1767"
-       style="font-size:13.3333px;white-space:pre;shape-inside:url(#rect1769);display:inline;fill:#000000"
-       transform="translate(137.64726,-280.73689)"><tspan
-         x="22.105469"
-         y="428.04133"
-         id="tspan8906">O
+       id="text8986"
+       style="font-size:13.3333px;white-space:pre;shape-inside:url(#rect8988);fill:#000000"
+       transform="translate(3.6423786)"><tspan
+         x="155.8125"
+         y="148.95539"
+         id="tspan9057">O
 </tspan><tspan
-         x="22.105469"
-         y="444.70795"
-         id="tspan8908">C
+         x="155.8125"
+         y="165.62202"
+         id="tspan9059">C
 </tspan><tspan
-         x="22.105469"
-         y="461.37458"
-         id="tspan8910">S
-</tspan><tspan
-         x="22.105469"
-         y="481.54914"
-         id="tspan8914"><tspan
-           dx="0 9.3098726"
-           id="tspan8912">CS</tspan></tspan></text>
+         x="155.8125"
+         y="182.28864"
+         id="tspan9061">S</tspan></text>
   </g>
 </svg>
