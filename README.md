@@ -23,7 +23,7 @@ Changes to names are subject to change (and encouraged) for identification purpo
   * [SVG Recreation](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/hendi/hendi-laserbeam.svg)
   * [Isaac's Original](https://github.com/isaac-j-miller/virtual-hendi/blob/master/front/public/images/hendi-laserbeam.png)
 * OCS Canister (hendi-ocs-canister)
-  * [SVG Recreation]() **TODO**
+  * [SVG Recreation](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/hendi/hendi-ocs-canister.svg)
   * [Isaac's Original](https://github.com/isaac-j-miller/virtual-hendi/blob/master/front/public/images/hendi-ocs-canister.png)
 * Quad (hendi-quad)
   * [SVG Recreation](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/hendi/hendi-quad.svg)
