@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg46278"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="globar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview46280"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.88336599"
+     inkscape:cx="182.82343"
+     inkscape:cy="219.61452"
+     inkscape:window-width="1280"
+     inkscape:window-height="772"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs46275">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient68194">
+      <stop
+         style="stop-color:#ffb24f;stop-opacity:1;"
+         offset="0"
+         id="stop68190" />
+      <stop
+         style="stop-color:#ffe2cc;stop-opacity:1;"
+         offset="0.24598071"
+         id="stop68198" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.49919614"
+         id="stop68200" />
+      <stop
+         style="stop-color:#ffe7c8;stop-opacity:1;"
+         offset="0.74959809"
+         id="stop68202" />
+      <stop
+         style="stop-color:#ffdac5;stop-opacity:1;"
+         offset="1"
+         id="stop68192" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient63826">
+      <stop
+         style="stop-color:#ff0b0b;stop-opacity:1;"
+         offset="0"
+         id="stop63822" />
+      <stop
+         style="stop-color:#ffc312;stop-opacity:1;"
+         offset="0.13424437"
+         id="stop63830" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.2773312"
+         id="stop63832" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop63824" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient63826"
+       id="linearGradient63828"
+       x1="4.1930258"
+       y1="59.304392"
+       x2="126.0967"
+       y2="59.304392"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient68194"
+       id="linearGradient68196"
+       x1="79.097397"
+       y1="-2.9951708"
+       x2="78.719421"
+       y2="33.845448"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect50311"
+       style="fill:url(#linearGradient63828);stroke:none;stroke-width:4.23757;paint-order:markers stroke fill;fill-opacity:1"
+       d="M 6.0513104 47.922657 C 5.0219709 47.922657 4.1930258 48.751602 4.1930258 49.780942 L 4.1930258 68.827842 C 4.1930258 69.857181 5.0219709 70.686126 6.0513104 70.686126 L 124.23893 70.686126 C 125.26827 70.686126 126.0967 69.857181 126.0967 68.827842 L 126.0967 63.497418 L 12.341366 63.497418 C 11.312026 63.497418 10.483081 62.66899 10.483081 61.63965 L 10.483081 55.771274 C 10.483081 54.741935 11.312026 53.91299 12.341366 53.91299 L 126.0967 53.91299 L 126.0967 49.780942 C 126.0967 48.751602 125.26827 47.922657 124.23893 47.922657 L 6.0513104 47.922657 z " />
+    <g
+       id="g57954"
+       transform="matrix(0.79238757,0,0,1,14.300133,43.130482)"
+       style="fill:url(#linearGradient68196);fill-opacity:1">
+      <rect
+         style="fill:url(#linearGradient68196);stroke:none;stroke-width:3.99663;paint-order:markers stroke fill;fill-opacity:1"
+         id="rect53588"
+         width="80.270622"
+         height="37.140137"
+         x="43.430004"
+         y="-2.9951735"
+         ry="2.0388842" />
+      <ellipse
+         style="fill:url(#linearGradient68196);stroke:none;stroke-width:4.05127;paint-order:markers stroke fill;fill-opacity:1"
+         id="path56494"
+         cx="43.280239"
+         cy="15.574899"
+         rx="6.1401033"
+         ry="18.57007" />
+    </g>
+  </g>
+</svg>
