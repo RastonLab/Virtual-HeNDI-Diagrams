@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="500"
-   viewBox="0 0 132.29166 132.29167"
+   width="315.50604"
+   height="286.33072"
+   viewBox="0 0 83.477636 75.758338"
    version="1.1"
    id="svg63856"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="apd.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,13 +26,13 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.0625428"
-     inkscape:cx="151.05274"
-     inkscape:cy="250.34286"
-     inkscape:window-width="1280"
-     inkscape:window-height="772"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="0"
+     inkscape:cx="153.87615"
+     inkscape:cy="135.99452"
+     inkscape:window-width="1858"
+     inkscape:window-height="1058"
+     inkscape:window-x="734"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs63853">
@@ -71,7 +71,7 @@
     <color-profile
        name="Lightness-Decrease"
        xlink:href="file:///Library/ColorSync/Profiles/Lightness%20Decrease.icc"
-       id="color-profile31432" />
+       id="color-profile183" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient65554">
@@ -129,18 +129,18 @@
        xlink:href="#linearGradient64789"
        id="linearGradient64791"
        x1="26.863319"
-       y1="79.185047"
+       y1="79.185043"
        x2="110.34096"
-       y2="79.185047"
+       y2="79.185043"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient65554"
        id="linearGradient65556"
        x1="26.863319"
-       y1="79.185047"
+       y1="79.185043"
        x2="110.34096"
-       y2="79.185047"
+       y2="79.185043"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -148,16 +148,17 @@
        id="linearGradient28211"
        x1="40.80592"
        y1="78.936035"
-       x2="96.149342"
+       x2="96.149345"
        y2="78.936035"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-26.863319,-41.305878)">
     <rect
-       style="fill:url(#linearGradient64791);stroke:url(#linearGradient65556);stroke-width:15;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill;fill-opacity:1"
+       style="fill:url(#linearGradient64791);fill-opacity:1;stroke:url(#linearGradient65556);stroke-width:15;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
        id="rect64392"
        width="68.477638"
        height="60.758339"

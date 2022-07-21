@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="300"
-   height="300"
-   viewBox="0 0 79.375002 79.375"
+   width="281.7677"
+   height="169.8882"
+   viewBox="0 0 74.551039 44.949586"
    version="1.1"
    id="svg798"
-   sodipodi:docname="Vpump.svg"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="pump.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,12 +26,12 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="2.2073339"
-     inkscape:cx="152.44635"
-     inkscape:cy="192.08693"
+     inkscape:cx="140.2144"
+     inkscape:cy="40.999687"
      inkscape:window-width="1280"
      inkscape:window-height="800"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="949"
+     inkscape:window-y="114"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -340,17 +340,6 @@
          offset="1"
          id="stop44728" />
     </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath16790">
-      <rect
-         style="fill:#666666;stroke-width:0.706993;stroke-linecap:square;paint-order:markers stroke fill"
-         id="rect16792"
-         width="48.740185"
-         height="28.571835"
-         x="11.684839"
-         y="26.811106" />
-    </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient44730"
@@ -580,7 +569,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-3.2417172,-31.165049)">
     <rect
        style="fill:#808080;stroke-width:0.649925;stroke-linecap:square;paint-order:markers stroke fill"
        id="rect50079"
@@ -599,7 +589,7 @@
        ry="2.9874184"
        rx="0" />
     <rect
-       style="fill:url(#linearGradient55895);fill-opacity:1;stroke-width:0.155965;stroke-linecap:square;paint-order:markers stroke fill;stroke:#000000;stroke-opacity:1"
+       style="fill:url(#linearGradient55895);fill-opacity:1;stroke:#000000;stroke-width:0.155965;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect55893"
        width="19.777817"
        height="2.7569082"
@@ -671,7 +661,7 @@
        style="fill:url(#linearGradient76316);fill-opacity:1;stroke-width:0.158841"
        d="m 34.327891,36.579528 a 0.62968184,3.352356 0.80569386 0 0 -0.523397,-3.315496 l 2.6e-4,-0.02067 -0.06459,0.0018 -3.327526,0.0928 -2.6e-4,0.02067 a 0.62968184,3.352356 0.80569386 0 0 -0.06433,-0.01888 0.62968184,3.352356 0.80569386 0 0 -0.672326,3.369526 0.62968184,3.352356 0.80569386 0 0 0.587977,3.334381 0.62968184,3.352356 0.80569386 0 0 0.06486,-0.02291 l -2.67e-4,0.02109 3.327527,-0.09279 0.0646,-0.0018 2.65e-4,-0.02109 a 0.62968184,3.352356 0.80569386 0 0 0.607213,-3.346632 z m -0.587086,-3.385552 -3.425306,0.146663 z" />
     <rect
-       style="fill:url(#linearGradient48503);stroke-width:0.299228;stroke-linecap:square;paint-order:markers stroke fill;fill-opacity:1"
+       style="fill:url(#linearGradient48503);fill-opacity:1;stroke-width:0.299228;stroke-linecap:square;paint-order:markers stroke fill"
        id="rect19032"
        width="45.069454"
        height="39.795368"
@@ -703,7 +693,7 @@
        y="31.165049"
        ry="0" />
     <rect
-       style="fill:url(#linearGradient44732);stroke-width:0.155965;stroke-linecap:square;paint-order:markers stroke fill;fill-opacity:1"
+       style="fill:url(#linearGradient44732);fill-opacity:1;stroke-width:0.155965;stroke-linecap:square;paint-order:markers stroke fill"
        id="rect43160"
        width="19.777817"
        height="2.7569082"

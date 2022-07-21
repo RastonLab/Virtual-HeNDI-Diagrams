@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="500"
-   viewBox="0 0 132.29166 132.29167"
+   width="332.79547"
+   height="419.06702"
+   viewBox="0 0 88.052131 110.87815"
    version="1.1"
    id="svg4511"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="detector.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,12 +26,12 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.0219188"
-     inkscape:cx="225.55609"
-     inkscape:cy="253.44481"
+     inkscape:cx="126.7224"
+     inkscape:cy="214.79202"
      inkscape:window-width="1280"
      inkscape:window-height="772"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-x="1001"
+     inkscape:window-y="111"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -124,9 +124,9 @@
        id="rect41333" />
     <rect
        x="194.73172"
-       y="140.9114"
+       y="140.91141"
        width="116.44761"
-       height="40.120606"
+       height="40.120605"
        id="rect35313" />
     <rect
        x="157.54677"
@@ -352,9 +352,9 @@
        inkscape:collect="always"
        xlink:href="#linearGradient10014"
        id="linearGradient10016"
-       x1="50.746034"
+       x1="50.746033"
        y1="15.146142"
-       x2="81.038314"
+       x2="81.038315"
        y2="15.146142"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
@@ -363,7 +363,7 @@
        id="linearGradient17341"
        x1="24.227865"
        y1="86.866188"
-       x2="55.55578"
+       x2="55.555779"
        y2="86.866188"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
@@ -382,7 +382,7 @@
        gradientUnits="userSpaceOnUse"
        x1="24.227865"
        y1="86.866188"
-       x2="55.55578"
+       x2="55.555779"
        y2="86.866188"
        gradientTransform="matrix(0.35558731,0,0,0.33502053,25.067492,57.831694)" />
     <linearGradient
@@ -390,55 +390,56 @@
        xlink:href="#linearGradient30571"
        id="linearGradient30573"
        x1="37.800625"
-       y1="38.57735"
+       y1="38.577351"
        x2="83.627411"
-       y2="38.57735"
+       y2="38.577351"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient47285"
        id="linearGradient47287"
        x1="84.663048"
-       y1="71.97653"
+       y1="71.976532"
        x2="113.14297"
-       y2="71.97653"
+       y2="71.976532"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient48050"
        id="linearGradient48052"
-       x1="82.088198"
-       y1="71.97653"
+       x1="82.088196"
+       y1="71.976532"
        x2="115.71782"
-       y2="71.97653"
+       y2="71.976532"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient51871"
        id="linearGradient51873"
-       x1="87.132765"
-       y1="40.778231"
+       x1="87.132767"
+       y1="40.778233"
        x2="108.08436"
-       y2="40.778231"
+       y2="40.778233"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-26.144271,-10.356337)">
     <path
        id="rect49618"
        style="fill:url(#linearGradient51873);fill-opacity:1;stroke:none;stroke-width:2.48487;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        d="m 87.132765,34.315335 v 12.925793 h 14.543015 v -0.08015 a 5.5460822,6.462858 0 0 0 0.86245,0.08015 5.5460822,6.462858 0 0 0 5.54613,-6.462897 5.5460822,6.462858 0 0 0 -5.54613,-6.462896 5.5460822,6.462858 0 0 0 -0.86245,0.07959 v -0.07959 z" />
     <rect
-       style="fill:url(#linearGradient47287);fill-opacity:1;stroke-width:2.10687706;stroke-linecap:square;paint-order:markers stroke fill;stroke:url(#linearGradient48052);stroke-opacity:1;stroke-dasharray:none"
+       style="fill:url(#linearGradient47287);fill-opacity:1;stroke:url(#linearGradient48052);stroke-width:2.10688;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect44375"
        width="28.479921"
        height="25.37302"
        x="84.663048"
        y="59.29002" />
     <ellipse
-       style="fill:url(#linearGradient10016);stroke-width:5.09472;stroke-linecap:square;paint-order:markers stroke fill;fill-opacity:1"
+       style="fill:url(#linearGradient10016);fill-opacity:1;stroke-width:5.09472;stroke-linecap:square;paint-order:markers stroke fill"
        id="path9282"
        cx="65.892174"
        cy="15.146142"
@@ -446,14 +447,14 @@
        ry="4.7898049" />
     <path
        id="rect4995"
-       style="fill:url(#linearGradient5174);stroke-width:7.07971;stroke-linecap:square;paint-order:markers stroke fill;fill-opacity:1"
-       d="M 66.409899 14.498856 A 28.609379 7.6377974 0 0 0 37.817329 22.002274 L 37.645247 22.002274 L 37.645247 120.45776 L 95.130626 120.45776 L 95.130626 22.002274 L 95.014354 22.002274 A 28.609379 7.6377974 0 0 0 66.409899 14.498856 z " />
+       style="fill:url(#linearGradient5174);fill-opacity:1;stroke-width:7.07971;stroke-linecap:square;paint-order:markers stroke fill"
+       d="m 66.409899,14.498856 a 28.609379,7.6377974 0 0 0 -28.59257,7.503418 H 37.645247 V 120.45776 H 95.130626 V 22.002274 H 95.014354 A 28.609379,7.6377974 0 0 0 66.409899,14.498856 Z" />
     <path
        id="path5000"
-       style="fill:url(#linearGradient7094);stroke-width:2.12413;stroke-linecap:square;paint-order:markers stroke fill;fill-opacity:1"
+       style="fill:url(#linearGradient7094);fill-opacity:1;stroke-width:2.12413;stroke-linecap:square;paint-order:markers stroke fill"
        d="m 66.41089,112.10732 a 29.897917,0.65791026 0 0 0 -29.880351,0.64633 h -0.17983 v 8.48083 h 60.074454 v -8.48083 H 96.303656 A 29.897917,0.65791026 0 0 0 66.41089,112.10732 Z" />
     <ellipse
-       style="fill:url(#linearGradient17341);stroke-width:6.79597;stroke-linecap:square;paint-order:markers stroke fill;fill-opacity:1"
+       style="fill:url(#linearGradient17341);fill-opacity:1;stroke-width:6.79597;stroke-linecap:square;paint-order:markers stroke fill"
        id="path12977"
        cx="39.891823"
        cy="86.866188"
@@ -461,7 +462,7 @@
        ry="24.337387"
        transform="rotate(-1.2742597)" />
     <ellipse
-       style="fill:url(#linearGradient23893);stroke-width:8.37445;stroke-linecap:square;paint-order:markers stroke fill;fill-opacity:1"
+       style="fill:url(#linearGradient23893);fill-opacity:1;stroke-width:8.37445;stroke-linecap:square;paint-order:markers stroke fill"
        id="path21707"
        cx="38.710442"
        cy="87.341522"
@@ -477,7 +478,7 @@
        ry="8.1535244"
        transform="matrix(0.9997805,-0.02095131,0.02360404,0.99972139,0,0)" />
     <rect
-       style="fill:url(#linearGradient30573);stroke-width:5.95896;stroke-linecap:square;paint-order:markers stroke fill;fill-opacity:1"
+       style="fill:url(#linearGradient30573);fill-opacity:1;stroke-width:5.95896;stroke-linecap:square;paint-order:markers stroke fill"
        id="rect28387"
        width="45.826786"
        height="29.515554"
@@ -507,7 +508,7 @@
        style="font-size:13.3333px;white-space:pre;shape-inside:url(#rect35313);display:inline;fill:#565656;fill-opacity:1;stroke-width:21.518;stroke-linecap:square;paint-order:markers stroke fill"><tspan
          x="194.73242"
          y="153.07648"
-         id="tspan52819">(215) 368-6900</tspan></text>
+         id="tspan958">(215) 368-6900</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.39912259,0,0,0.46596672,-14.64099,-40.302684)"
@@ -515,9 +516,9 @@
        style="font-size:13.3333px;white-space:pre;shape-inside:url(#rect41333);display:inline;fill:#000000;fill-opacity:1;stroke-width:21.518;stroke-linecap:square;paint-order:markers stroke fill"><tspan
          x="168.31055"
          y="151.11945"
-         id="tspan52821">Indium </tspan><tspan
+         id="tspan960">Indium </tspan><tspan
          x="168.31055"
          y="167.78608"
-         id="tspan52823">Antimonide</tspan></text>
+         id="tspan962">Antimonide</tspan></text>
   </g>
 </svg>

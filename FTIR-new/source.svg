@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="500"
-   viewBox="0 0 132.29167 132.29167"
+   width="460.73828"
+   height="140.37219"
+   viewBox="0 0 121.90367 37.140144"
    version="1.1"
    id="svg46278"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="globar.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,12 +26,12 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.88336599"
-     inkscape:cx="182.82343"
-     inkscape:cy="219.61452"
+     inkscape:cx="166.97496"
+     inkscape:cy="68.488034"
      inkscape:window-width="1280"
      inkscape:window-height="772"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-x="1008"
+     inkscape:window-y="96"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -84,10 +84,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient63826"
        id="linearGradient63828"
-       x1="4.1930258"
-       y1="59.304392"
+       x1="4.1930256"
+       y1="59.304394"
        x2="126.0967"
-       y2="59.304392"
+       y2="59.304394"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -98,21 +98,40 @@
        x2="78.719421"
        y2="33.845448"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient68194"
+       id="linearGradient1006"
+       gradientUnits="userSpaceOnUse"
+       x1="79.097397"
+       y1="-2.9951708"
+       x2="78.719421"
+       y2="33.845448" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient68194"
+       id="linearGradient1008"
+       gradientUnits="userSpaceOnUse"
+       x1="79.097397"
+       y1="-2.9951708"
+       x2="78.719421"
+       y2="33.845448" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-4.1930258,-40.135309)">
     <path
        id="rect50311"
-       style="fill:url(#linearGradient63828);stroke:none;stroke-width:4.23757;paint-order:markers stroke fill;fill-opacity:1"
-       d="M 6.0513104 47.922657 C 5.0219709 47.922657 4.1930258 48.751602 4.1930258 49.780942 L 4.1930258 68.827842 C 4.1930258 69.857181 5.0219709 70.686126 6.0513104 70.686126 L 124.23893 70.686126 C 125.26827 70.686126 126.0967 69.857181 126.0967 68.827842 L 126.0967 63.497418 L 12.341366 63.497418 C 11.312026 63.497418 10.483081 62.66899 10.483081 61.63965 L 10.483081 55.771274 C 10.483081 54.741935 11.312026 53.91299 12.341366 53.91299 L 126.0967 53.91299 L 126.0967 49.780942 C 126.0967 48.751602 125.26827 47.922657 124.23893 47.922657 L 6.0513104 47.922657 z " />
+       style="fill:url(#linearGradient63828);fill-opacity:1;stroke:none;stroke-width:4.23757;paint-order:markers stroke fill"
+       d="m 6.0513104,47.922657 c -1.0293395,0 -1.8582846,0.828945 -1.8582846,1.858285 v 19.0469 c 0,1.029339 0.8289451,1.858284 1.8582846,1.858284 H 124.23893 c 1.02934,0 1.85777,-0.828945 1.85777,-1.858284 V 63.497418 H 12.341366 c -1.02934,0 -1.858285,-0.828428 -1.858285,-1.857768 v -5.868376 c 0,-1.029339 0.828945,-1.858284 1.858285,-1.858284 H 126.0967 v -4.132048 c 0,-1.02934 -0.82843,-1.858285 -1.85777,-1.858285 z" />
     <g
        id="g57954"
        transform="matrix(0.79238757,0,0,1,14.300133,43.130482)"
        style="fill:url(#linearGradient68196);fill-opacity:1">
       <rect
-         style="fill:url(#linearGradient68196);stroke:none;stroke-width:3.99663;paint-order:markers stroke fill;fill-opacity:1"
+         style="fill:url(#linearGradient1006);fill-opacity:1;stroke:none;stroke-width:3.99663;paint-order:markers stroke fill"
          id="rect53588"
          width="80.270622"
          height="37.140137"
@@ -120,7 +139,7 @@
          y="-2.9951735"
          ry="2.0388842" />
       <ellipse
-         style="fill:url(#linearGradient68196);stroke:none;stroke-width:4.05127;paint-order:markers stroke fill;fill-opacity:1"
+         style="fill:url(#linearGradient1008);fill-opacity:1;stroke:none;stroke-width:4.05127;paint-order:markers stroke fill"
          id="path56494"
          cx="43.280239"
          cy="15.574899"

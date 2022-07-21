@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="300"
-   height="300"
-   viewBox="0 0 79.375 79.374999"
+   width="90.759125"
+   height="101.11494"
+   viewBox="0 0 24.013352 26.753329"
    version="1.1"
    id="svg862"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="parabolic_mirror.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,11 +26,11 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="3.3577664"
-     inkscape:cx="134.16657"
-     inkscape:cy="186.13564"
+     inkscape:cx="47.501815"
+     inkscape:cy="54.649424"
      inkscape:window-width="1280"
      inkscape:window-height="772"
-     inkscape:window-x="0"
+     inkscape:window-x="741"
      inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -126,11 +126,12 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-22.986739,-34.866333)">
     <path
        id="rect1055"
        clip-path="url(#clipPath1171)"
-       style="fill:url(#linearGradient2033);stroke-width:1.33244;stroke-linecap:square;paint-order:markers stroke fill;fill-opacity:1"
+       style="fill:url(#linearGradient2033);fill-opacity:1;stroke-width:1.33244;stroke-linecap:square;paint-order:markers stroke fill"
        d="m 21.117835,56.734364 23.796935,-2.57e-4 -2.83e-4,-19.384104 -0.01912,-1.73e-4 a 11.898411,2.4427199 0.51698 0 0 0.0153,-0.09237 11.898411,2.4427199 0.51698 0 0 -11.875973,-2.550005 11.898411,2.4427199 0.51698 0 0 -11.919538,2.335292 11.898411,2.4427199 0.51698 0 0 0.09129,0.30676 l -0.08889,2.32e-4 z"
        transform="matrix(-0.99995929,0.0121132,-0.00902288,-1.3424428,68.411586,107.81228)" />
     <ellipse
@@ -142,7 +143,7 @@
        ry="6.5063558"
        transform="matrix(0.7678976,0.64057262,-0.64384717,0.76515411,0,0)" />
     <ellipse
-       style="fill:url(#linearGradient1358);stroke-width:1.5658;stroke-linecap:square;paint-order:markers stroke fill;fill-opacity:1"
+       style="fill:url(#linearGradient1358);fill-opacity:1;stroke-width:1.5658;stroke-linecap:square;paint-order:markers stroke fill"
        id="ellipse1290"
        cx="56.073605"
        cy="12.477081"
