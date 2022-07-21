@@ -8,7 +8,7 @@
    version="1.1"
    id="svg6714"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="FTIR_4.svg"
+   sodipodi:docname="instrument-window.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,8 +26,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.42133591"
-     inkscape:cx="1530.8451"
-     inkscape:cy="1152.2873"
+     inkscape:cx="987.33573"
+     inkscape:cy="1154.6607"
      inkscape:window-width="2498"
      inkscape:window-height="1417"
      inkscape:window-x="54"
@@ -1768,8 +1768,9 @@
        inkscape:original-d="m 573.43848,523.23237 c -2.67613,12.57375 4.25128,28.37889 0,41.13272 -1.20732,3.62194 -3.22962,7.06414 -4.83914,10.28318 -0.72625,1.4525 -1.87918,4.56895 -3.62936,5.44404 -7.80623,3.90311 -18.6653,0.47531 -24.80061,9.67828 -1.32458,1.98688 -4.19995,17.5762 -2.41957,19.35657 0.47509,0.4751 2.24578,-0.51799 2.41957,-0.60489"
        inkscape:path-effect="#path-effect12490;#path-effect12492" />
     <g
-       id="rotary-pump"
-       transform="matrix(1.2518191,0,0,1.1756796,456.51274,569.71301)">
+       id="pump"
+       transform="matrix(1.2518191,0,0,1.1756796,456.51274,569.71301)"
+       inkscape:label="pump">
       <rect
          style="fill:#808080;stroke-width:0.649925;stroke-linecap:square;paint-order:markers stroke fill"
          id="rect50079"
@@ -2039,7 +2040,7 @@
        inkscape:original-d="m 630.29842,522.02258 c -1.14792,7.27564 -1.41909,14.44838 -0.60489,21.77615 1.28051,11.52463 0.70708,24.4001 6.04892,35.08379 2.46497,4.92994 9.42491,13.94525 13.91254,16.937 7.20974,4.80649 23.4123,9.43044 27.22018,1.81468"
        inkscape:path-effect="#path-effect12497;#path-effect12499" />
     <g
-       id="lecture-bottle"
+       id="lecture"
        transform="matrix(0.00152848,-0.81641014,0.54409192,0.00131588,500.16406,615.29155)"
        inkscape:label="lecture">
       <ellipse
@@ -2111,15 +2112,15 @@
          transform="matrix(1,0,0,1.1855283,-5.9963644,-125.7481)"><tspan
            x="22.105469"
            y="428.04133"
-           id="tspan9778">O
+           id="tspan2037">O
 </tspan><tspan
            x="22.105469"
            y="444.70795"
-           id="tspan9780">C
+           id="tspan2039">C
 </tspan><tspan
            x="22.105469"
            y="461.37458"
-           id="tspan9782">S</tspan></text>
+           id="tspan2041">S</tspan></text>
     </g>
     <ellipse
        style="display:inline;mix-blend-mode:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.98869;paint-order:markers stroke fill;filter:url(#filter20114)"
