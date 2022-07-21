@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="236.22182"
+   height="200.86925"
+   viewBox="0 0 62.500357 53.146655"
+   version="1.1"
+   id="svg6714"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="flat-rotatable-mirror-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6716"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.3834358"
+     inkscape:cx="91.674379"
+     inkscape:cy="92.513504"
+     inkscape:window-width="2498"
+     inkscape:window-height="1417"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6711">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10026">
+      <stop
+         style="stop-color:#484848;stop-opacity:1;"
+         offset="0"
+         id="stop10022" />
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0.2"
+         id="stop10030" />
+      <stop
+         style="stop-color:#676767;stop-opacity:1;"
+         offset="0.40000001"
+         id="stop10032" />
+      <stop
+         style="stop-color:#7b7b7b;stop-opacity:1;"
+         offset="0.60000002"
+         id="stop10034" />
+      <stop
+         style="stop-color:#4a4a4a;stop-opacity:1;"
+         offset="0.80000001"
+         id="stop10036" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop10024" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10026"
+       id="linearGradient51114"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.80626123,0,0,0.78180193,-1005.6104,68.608971)"
+       x1="145.96878"
+       y1="63.453781"
+       x2="230.23941"
+       y2="63.453781" />
+  </defs>
+  <g
+     inkscape:label="ftir"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-712.4374,-392.86676)">
+    <g
+       id="flat-rotatable-mirror-2">
+      <rect
+         style="fill:url(#linearGradient51114);fill-opacity:1;stroke:#fec900;stroke-width:1.67273;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect51112"
+         width="67.944145"
+         height="11.372651"
+         x="-887.92145"
+         y="112.5309"
+         transform="matrix(-0.79481969,-0.60684566,0.54942756,-0.83554136,0,0)"
+         inkscape:transform-center-x="3.998046"
+         inkscape:transform-center-y="-12.198382" />
+    </g>
+  </g>
+</svg>

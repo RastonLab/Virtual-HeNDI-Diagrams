@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="564.13684"
+   height="330.62875"
+   viewBox="0 0 149.26121 87.478857"
+   version="1.1"
+   id="svg6714"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="fixed-corner-cube.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6716"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.42133591"
+     inkscape:cx="-342.95676"
+     inkscape:cy="1138.0468"
+     inkscape:window-width="2498"
+     inkscape:window-height="1417"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6711">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient48984">
+      <stop
+         style="stop-color:#3d3d3d;stop-opacity:1;"
+         offset="0"
+         id="stop48980" />
+      <stop
+         style="stop-color:#5b5b5b;stop-opacity:1;"
+         offset="0.2"
+         id="stop48988" />
+      <stop
+         style="stop-color:#2d2d2d;stop-opacity:1;"
+         offset="0.40000001"
+         id="stop48990" />
+      <stop
+         style="stop-color:#383838;stop-opacity:1;"
+         offset="0.60000002"
+         id="stop48992" />
+      <stop
+         style="stop-color:#5d5d5d;stop-opacity:1;"
+         offset="0.80000001"
+         id="stop48994" />
+      <stop
+         style="stop-color:#575757;stop-opacity:1;"
+         offset="1"
+         id="stop48982" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient48984"
+       id="linearGradient48986"
+       x1="304.20673"
+       y1="103.94676"
+       x2="452.36444"
+       y2="103.94676"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97734265,0,0,1.5669503,22.425621,-62.603205)" />
+  </defs>
+  <g
+     inkscape:label="ftir"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-317.44818,-56.541658)">
+    <g
+       id="fixed-corner-cube">
+      <path
+         id="path13600"
+         style="fill:url(#linearGradient48986);fill-opacity:1;stroke:#f7c400;stroke-width:3.03295;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 399.17367,58.641122 -79.43379,67.017038 13.10956,12.09066 65.86159,-57.312605 54.20138,61.475095 11.62831,-9.69152 -64.44275,-73.090368 -0.27197,0.226269 z"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+  </g>
+</svg>
