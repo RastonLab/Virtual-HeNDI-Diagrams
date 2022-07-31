@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="300"
-   height="800"
-   viewBox="0 0 300 800"
+   width="111.43797"
+   height="188.48386"
+   viewBox="0 0 111.43797 188.48386"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
-   sodipodi:docname="coldhead.svg.2022_06_15_11_42_39.0.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="coldhead.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,20 +25,20 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.4080727"
-     inkscape:cx="231.87723"
-     inkscape:cy="306.80234"
-     inkscape:window-width="1280"
-     inkscape:window-height="772"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1">
+     inkscape:zoom="5.6322908"
+     inkscape:cx="23.525064"
+     inkscape:cy="102.71132"
+     inkscape:window-width="2498"
+     inkscape:window-height="1417"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="coldhead">
     <inkscape:grid
        type="xygrid"
        id="grid869"
-       originx="0"
-       originy="0" />
+       originx="-112.17188"
+       originy="-175.1662" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -206,94 +206,6 @@
          offset="1"
          id="stop12418" />
     </linearGradient>
-    <filter
-       inkscape:label="Metallized Paint"
-       inkscape:menu="Materials"
-       inkscape:menu-tooltip="Metallized effect with a soft lighting, slightly translucent at the edges"
-       style="color-interpolation-filters:sRGB"
-       id="filter629"
-       x="-0.35323733"
-       y="-0.17775084"
-       width="1.7064747"
-       height="1.3555017">
-      <feGaussianBlur
-         stdDeviation="1"
-         result="result1"
-         id="feGaussianBlur603" />
-      <feComposite
-         in="result1"
-         in2="result1"
-         result="result4"
-         operator="in"
-         id="feComposite605" />
-      <feBlend
-         in="result1"
-         mode="screen"
-         result="result5"
-         in2="result4"
-         id="feBlend607" />
-      <feGaussianBlur
-         stdDeviation="8"
-         result="result6"
-         in="result5"
-         id="feGaussianBlur609" />
-      <feComposite
-         operator="atop"
-         in="result6"
-         in2="result5"
-         result="result8"
-         id="feComposite611" />
-      <feComposite
-         operator="in"
-         result="fbSourceGraphic"
-         in="result6"
-         in2="result8"
-         id="feComposite613" />
-      <feGaussianBlur
-         result="result0"
-         in="fbSourceGraphic"
-         stdDeviation="2.5"
-         id="feGaussianBlur615" />
-      <feSpecularLighting
-         specularExponent="45"
-         specularConstant="1.5"
-         surfaceScale="1"
-         lighting-color="#ffffff"
-         result="result1"
-         in="result0"
-         id="feSpecularLighting619">
-        <fePointLight
-           z="21000"
-           y="-9000"
-           x="-6000"
-           id="fePointLight617" />
-      </feSpecularLighting>
-      <feComposite
-         operator="in"
-         result="result2"
-         in="result1"
-         in2="fbSourceGraphic"
-         id="feComposite621" />
-      <feComposite
-         k3="1"
-         k2="1"
-         operator="arithmetic"
-         result="result4"
-         in="fbSourceGraphic"
-         in2="result2"
-         id="feComposite623"
-         k1="0"
-         k4="0" />
-      <feComposite
-         operator="in"
-         in2="result4"
-         result="result91"
-         id="feComposite625" />
-      <feBlend
-         mode="multiply"
-         in2="result91"
-         id="feBlend627" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12420"
@@ -413,9 +325,10 @@
        gradientTransform="matrix(0.12418304,0,0,0.12999995,171.86092,283.33832)" />
   </defs>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="coldhead"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="coldhead"
+     transform="translate(-112.17188,-175.1662)">
     <rect
        style="fill:url(#linearGradient8210);fill-opacity:1;stroke-width:1.67552;stroke-dasharray:0.837753, 0.837753"
        id="rect8202"
@@ -467,7 +380,7 @@
        style="fill:url(#linearGradient7903);fill-opacity:1;stroke-width:1.13633;stroke-dasharray:0.568158, 0.568158"
        d="m 195.77116,319.99656 v 13.85156 H 175.2358 v 9.69726 h 20.53536 10.63372 v -9.69726 -13.85156 z" />
     <path
-       style="fill:none;fill-opacity:1;stroke-width:1.323;stroke-dasharray:0.661498, 0.661498;stroke:none"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.323;stroke-dasharray:0.661498, 0.661498"
        d="m 202.94109,317.57164 -0.69263,-6.23368 -4.15579,-1.73158 -4.15579,-0.34632 -6.23368,-0.69263 -8.31158,-0.34631 h -8.6579 l -5.54105,-0.34632 -7.27264,-1.03895 -6.23368,-0.69263 -4.84843,-0.69263 -4.84842,-1.38526 -1.38526,-1.38527 -0.69263,-1.38526 1.03895,-1.03895"
        id="path8358" />
     <path

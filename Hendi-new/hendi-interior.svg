@@ -30,9 +30,9 @@
      showgrid="false"
      borderlayer="true"
      inkscape:lockguides="false"
-     inkscape:zoom="25.168234"
-     inkscape:cx="106.7417"
-     inkscape:cy="180.76358"
+     inkscape:zoom="4.4491572"
+     inkscape:cx="350.96534"
+     inkscape:cy="167.1103"
      inkscape:window-width="2498"
      inkscape:window-height="1417"
      inkscape:window-x="54"
@@ -1198,8 +1198,8 @@
     </g>
     <g
        id="coldhead"
-       transform="matrix(0.60265954,0,0,0.55532816,535.56744,-362.12935)"
-       style="display:inline">
+       style="display:inline"
+       transform="matrix(0.60265954,0,0,0.55532816,535.56744,-362.12935)">
       <path
          id="path16084"
          style="fill:url(#linearGradient16086);fill-opacity:1;stroke-width:1.09398"
@@ -1228,11 +1228,6 @@
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.323;stroke-dasharray:none;stroke-opacity:1"
          d="m 164.84635,294.36848 10.38948,-1.38526 10.04316,-3.80948 12.12105,-6.23368 11.42842,-8.31158 9.35053,-8.6579 4.84842,-9.00421"
          id="path9929" />
-    </g>
-    <g
-       id="nozzle"
-       style="display:inline"
-       transform="matrix(0.60265954,0,0,0.55532816,535.56744,-362.12935)">
       <path
          id="path19719"
          style="display:inline;fill:url(#linearGradient19721);fill-opacity:1;stroke-width:0.69226"

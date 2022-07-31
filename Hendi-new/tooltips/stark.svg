@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="700"
-   viewBox="0 0 132.29167 185.20833"
+   width="92.43248"
+   height="56.308445"
+   viewBox="0 0 92.43248 56.308445"
    version="1.1"
    id="svg34074"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="stark.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,15 +25,15 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.7215895"
-     inkscape:cx="160.02653"
-     inkscape:cy="108.03969"
-     inkscape:window-width="1280"
-     inkscape:window-height="772"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:zoom="6.886358"
+     inkscape:cx="57.504998"
+     inkscape:cy="41.45878"
+     inkscape:window-width="2498"
+     inkscape:window-height="1417"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="stark" />
   <defs
      id="defs34071">
     <linearGradient
@@ -396,10 +396,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient5320"
        id="linearGradient5322"
-       x1="18.173169"
-       y1="50.459731"
-       x2="75.920917"
-       y2="50.459731"
+       x1="18.173168"
+       y1="50.459732"
+       x2="75.920914"
+       y2="50.459732"
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
@@ -482,10 +482,10 @@
        y2="200.60178" />
   </defs>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="stark"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(14.132547,-12.993562)">
+     id="stark"
+     transform="translate(14.132549,-12.99356)">
     <path
        id="path6139"
        style="mix-blend-mode:normal;fill:url(#linearGradient6889);fill-opacity:1;stroke-width:0.160907;filter:url(#filter6883)"

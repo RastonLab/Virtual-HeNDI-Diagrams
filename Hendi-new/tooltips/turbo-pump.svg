@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="78.021492"
+   height="35.808601"
+   viewBox="0 0 78.021492 35.808601"
+   version="1.1"
+   id="svg3976"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="turbo-pump.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3978"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="-19.674152"
+     inkscape:cy="103.8358"
+     inkscape:window-width="1247"
+     inkscape:window-height="1408"
+     inkscape:window-x="1304"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3976" />
+  <defs
+     id="defs3973" />
+  <g
+     id="turbo-pump"
+     transform="translate(-126.43164,-363.49219)">
+    <path
+       id="rect2080"
+       style="fill:#333333;stroke:#000000;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 143.63594,364.25983 v 19.9336 h -13.75 v -0.98633 h -3.31641 v 12.51172 h 3.31641 v -0.94532 h 13.75 v 4.29493 h 59.95508 v -34.8086 z"
+       transform="translate(0.36210735,-0.26764479)" />
+  </g>
+</svg>

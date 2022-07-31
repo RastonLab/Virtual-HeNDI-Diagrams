@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="300"
-   height="300"
-   viewBox="0 0 79.374998 79.375"
+   width="40.93528"
+   height="47.059559"
+   viewBox="0 0 40.93528 47.059559"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
-   sodipodi:docname="diffusion_pump.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="diffusion-pump.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,17 +23,17 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="2.1681913"
-     inkscape:cx="168.57369"
-     inkscape:cy="198.7832"
+     inkscape:cx="33.438009"
+     inkscape:cy="28.595263"
      inkscape:window-width="1280"
      inkscape:window-height="772"
-     inkscape:window-x="0"
+     inkscape:window-x="62"
      inkscape:window-y="28"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="diffusion-pump" />
   <defs
      id="defs2">
     <linearGradient
@@ -120,39 +120,6 @@
          offset="1"
          id="stop28433" />
     </linearGradient>
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect15918"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect15912"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect15125"
-       is_visible="true"
-       lpeversion="1"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient27759">
@@ -217,7 +184,8 @@
        y1="38.91349"
        x2="53.408768"
        y2="38.91349"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0615996,-0.87555354,-1.2330073)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient27759"
@@ -226,7 +194,8 @@
        y1="25.877472"
        x2="52.338646"
        y2="25.877472"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0615996,-0.87555354,-1.2330073)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient28435"
@@ -317,9 +286,10 @@
        gradientTransform="matrix(1,0,0,0.37970926,-23.812421,-48.222592)" />
   </defs>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="diffusion-pump"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="diffusion-pump"
+     transform="translate(-27.57305,-25.051731)">
     <path
        id="rect69362"
        style="fill:url(#linearGradient80317);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25223;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
@@ -377,21 +347,17 @@
        x="52.836258"
        y="-51.022148"
        transform="rotate(90)" />
-    <g
-       id="g26864"
-       transform="matrix(1,0,0,1.0615996,-0.87555354,-1.2330073)">
-      <path
-         id="rect19540"
-         style="fill:url(#linearGradient27658);fill-opacity:1;stroke:none;stroke-width:0.357957;stroke-linecap:square;paint-order:markers stroke fill"
-         d="m 32.417143,25.794291 v 3.023588 a 3.747129,10.67496 0 0 0 -3.137276,10.527006 3.747129,10.67496 0 0 0 3.137276,10.527006 V 68.929643 H 50.194352 V 49.83055 A 3.747129,10.67496 0 0 0 53.244295,39.344885 3.747129,10.67496 0 0 0 50.194352,28.857153 v -3.062862 z" />
-      <rect
-         style="fill:url(#linearGradient27761);fill-opacity:1;stroke:#000000;stroke-width:0.353762;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect26133"
-         width="21.835644"
-         height="2.0870478"
-         x="30.379124"
-         y="24.931232" />
-    </g>
+    <path
+       id="rect19540"
+       style="fill:url(#linearGradient27658);fill-opacity:1;stroke:none;stroke-width:0.368817;stroke-linecap:square;paint-order:markers stroke fill"
+       d="m 31.541589,26.150202 v 3.20984 a 3.747129,11.332533 0 0 0 -3.137276,11.175465 3.747129,11.332533 0 0 0 3.137276,11.175465 V 71.942674 H 49.318798 V 51.667085 A 3.747129,11.332533 0 0 0 52.368741,40.535507 3.747129,11.332533 0 0 0 49.318798,29.401735 v -3.251533 z" />
+    <rect
+       style="fill:url(#linearGradient27761);fill-opacity:1;stroke:#000000;stroke-width:0.364495;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect26133"
+       width="21.835644"
+       height="2.2156091"
+       x="29.503571"
+       y="25.233978" />
     <path
        style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.300567;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
        d="m 44.672719,62.020247 h 2.381033 l 2.381033,-1.020442 1.133825,-2.15427 0.226766,-2.267651 v -2.381033 h -1.020442 v 2.381033 l -0.113385,1.927503 -0.680294,1.473975 -1.814121,1.020441 -2.607799,0.113382 z"
@@ -510,7 +476,7 @@
        y="-49.661556"
        transform="rotate(90)" />
     <rect
-       style="fill:url(#linearGradient34315);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.27264;stroke-linecap:square;paint-order:markers stroke fill;stroke-opacity:1"
+       style="fill:url(#linearGradient34315);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.27264;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect31403"
        width="9.0706024"
        height="11.905166"
