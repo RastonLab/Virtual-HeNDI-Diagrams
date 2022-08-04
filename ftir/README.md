@@ -1,34 +1,31 @@
 # FTIR (Fourier Transform InfraRed)
 
 Contents
-* Main Instrument Window
-  * Top Down
+* [Instrument Window](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#instrument-window)
 
-* Tooltip Images
-  * APD
-  * Aperture Wheel
-  * Fixed Corner Cube
-  * Fixed Mirror
-  * Flat Rotatable Mirror (1)
-  * Flat Rotatable Mirror (2)
-  * Flat Rotatable Mirror (3)
-  * Globar
-  * INSB
-  * Laser Symbol
-  * Lecture Bottle
-  * Movable Corner Cube
-  * MTC
-  * Parabolic Mirror w/ Hole
-  * Parabolic Mirror
-  * Pump
-  * Sample Compartment
-  * Tungsten
+* [Tooltip Images](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#tooltip-images)
+  * [APD](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#apd)
+  * [Aperture Wheel](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#aperture-wheel)
+  * [Fixed Corner Cube](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#fixed-corner-cube)
+  * [Fixed Mirror](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#fixed-mirror)
+  * [Flat Rotatable Mirror (1)](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#flat-rotatable-mirror-1)
+  * [Flat Rotatable Mirror (2)](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#flat-rotatable-mirror-2)
+  * [Flat Rotatable Mirror (3)](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#flat-rotatable-mirror-3)
+  * [Globar](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#globar)
+  * [INSB](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#insb)
+  * [Laser Symbol](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#laser-symbol)
+  * [Lecture Bottle](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#lecture-bottle)
+  * [Movable Corner Cube](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#movable-corner-cube)
+  * [MTC](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#mtc)
+  * [Parabolic Mirror w/ Hole](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#parabolic-mirror-w-hole)
+  * [Parabolic Mirror](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#parabolic-mirror)
+  * [Pump](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#pump)
+  * [Sample Compartment](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#sample-compartment)
+  * [Tungsten](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#tungsten)
 
 ***
 
-## Main Instrument Window
-
-### [Instrument Window](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/instrument-window.svg)
+## [Instrument Window](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/instrument-window.svg)
 ![FTIR Instrument Window](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/instrument-window.svg)
 
 ## Tooltip Images
