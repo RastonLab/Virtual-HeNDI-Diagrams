@@ -2,12 +2,12 @@
 This repository is the home of the different diagrams used in the construction of our virtual instruments!
 
 Contents
-* [HeNDI (Helium NanoDroplet Isolation)]() # jump on this page
-* [FTIR (Fourier Transform InfraRed)]() # jump on this page
+* [HeNDI (Helium NanoDroplet Isolation)]()
+* [FTIR (Fourier Transform InfraRed)]()
 
 ***
 
-## [HeNDI]() # HeNDI Readme
+## [HeNDI]()
 
 ### Exterior
 
@@ -19,7 +19,7 @@ Contents
 
 ***
 
-## [FTIR]() # FTIR Readme (will be renamed)
+## [FTIR]()
 
 ### Exterior
 
