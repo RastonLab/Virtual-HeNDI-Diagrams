@@ -1,11 +1,11 @@
 # HeNDI (Helium NanoDroplet Isolation)
 
 Contents
-* Main Instrument Windows
+* [Main Instrument Windows](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/hendi#main-instrument-windows)
   * [Exterior](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/hendi#exterior)
   * [Interior](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/hendi#interior)
 
-* Tooltip Images
+* [Tooltip Images](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/hendi#tooltip-images)
   * [Chamber](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/hendi#chamber)
   * [Coldhead](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/hendi#coldhead)
   * [Diffusion Pump](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/hendi#diffusion-pump)
