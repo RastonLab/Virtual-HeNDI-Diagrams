@@ -7,7 +7,7 @@ Contents
 
 ***
 
-## [HeNDI]()
+## [HeNDI](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/hendi#readme)
 
 ### Exterior
 
@@ -19,7 +19,7 @@ Contents
 
 ***
 
-## [FTIR]()
+## [FTIR](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#readme)
 
 ### Exterior
 
