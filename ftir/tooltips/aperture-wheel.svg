@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="288.27368"
-   height="294.68134"
-   viewBox="0 0 76.272408 77.967772"
+   width="293.47668"
+   height="300"
+   viewBox="0 0 293.47668 300"
    version="1.1"
    id="svg17772"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="aperture-wheel.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,15 +25,15 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.0625491"
-     inkscape:cx="177.40357"
-     inkscape:cy="210.34322"
-     inkscape:window-width="1280"
-     inkscape:window-height="772"
-     inkscape:window-x="1000"
-     inkscape:window-y="112"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:zoom="2.1250982"
+     inkscape:cx="195.52038"
+     inkscape:cy="157.40449"
+     inkscape:window-width="2498"
+     inkscape:window-height="1417"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="aperture-wheel" />
   <defs
      id="defs17769">
     <linearGradient
@@ -84,7 +84,8 @@
        y1="120.73306"
        x2="104.98139"
        y2="120.73306"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.8477435,0,0,3.8477435,-78.494136,-232.80067)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient20307"
@@ -94,69 +95,69 @@
        fx="67.145805"
        fy="149.33383"
        r="5.6011014"
-       gradientTransform="matrix(1,0,0,1.0006084,0,-0.09084852)"
+       gradientTransform="matrix(3.8477435,0,0,3.8500844,-78.494136,-233.15023)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="aperture-wheel"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-28.708978,-81.749177)">
+     id="aperture-wheel"
+     transform="translate(-31.970648,-81.749182)">
     <ellipse
-       style="fill:url(#linearGradient19542);fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:url(#linearGradient19542);fill-opacity:1;stroke:#000000;stroke-width:10.1805;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="path21753"
-       cx="66.845184"
-       cy="120.73306"
-       rx="36.81329"
-       ry="37.660969" />
+       cx="178.70898"
+       cy="231.74918"
+       rx="141.64809"
+       ry="144.90974" />
     <ellipse
-       style="fill:#000000;stroke:none;stroke-width:17.2034;stroke-linecap:square;paint-order:markers stroke fill"
+       style="fill:#000000;stroke:none;stroke-width:66.1943;stroke-linecap:square;paint-order:markers stroke fill"
        id="path23259"
-       cx="67.481339"
-       cy="96.31591"
-       rx="10.566052"
-       ry="10.821876" />
+       cx="181.15675"
+       cy="137.79823"
+       rx="40.655457"
+       ry="41.639801" />
     <ellipse
-       style="fill:#000000;stroke:none;stroke-width:22.0647;stroke-linecap:square;paint-order:markers stroke fill"
+       style="fill:#000000;stroke:none;stroke-width:84.8993;stroke-linecap:square;paint-order:markers stroke fill"
        id="path24039"
-       cx="87.092125"
-       cy="111.51429"
-       rx="9.3687191"
-       ry="9.5102615" />
+       cx="256.61401"
+       cy="196.27771"
+       rx="36.048428"
+       ry="36.593048" />
     <ellipse
-       style="fill:#000000;stroke:none;stroke-width:23.9708;stroke-linecap:square;paint-order:markers stroke fill"
+       style="fill:#000000;stroke:none;stroke-width:92.2335;stroke-linecap:square;paint-order:markers stroke fill"
        id="path24767"
-       cx="86.326492"
-       cy="136.09843"
-       rx="7.0576653"
-       ry="7.0678887" />
+       cx="253.66806"
+       cy="290.87122"
+       rx="27.156084"
+       ry="27.195423" />
     <ellipse
-       style="fill:url(#radialGradient20309);fill-opacity:1;stroke:none;stroke-width:19.0158;stroke-linecap:square;paint-order:markers stroke fill"
+       style="fill:url(#radialGradient20309);fill-opacity:1;stroke:none;stroke-width:73.1679;stroke-linecap:square;paint-order:markers stroke fill"
        id="path25495"
-       cx="67.145805"
-       cy="149.33383"
-       rx="5.6011014"
-       ry="5.6045089" />
+       cx="179.86569"
+       cy="341.79761"
+       rx="21.551601"
+       ry="21.564713" />
     <ellipse
-       style="fill:#000000;stroke:none;stroke-width:11.2227;stroke-linecap:square;paint-order:markers stroke fill"
+       style="fill:#000000;stroke:none;stroke-width:43.1821;stroke-linecap:square;paint-order:markers stroke fill"
        id="path27675"
-       cx="44.55896"
-       cy="104.91338"
-       rx="1.557214"
-       ry="1.8028146" />
+       cx="92.957314"
+       cy="170.87912"
+       rx="5.9917603"
+       ry="6.9367681" />
     <ellipse
-       style="fill:#000000;stroke:none;stroke-width:14.0387;stroke-linecap:square;paint-order:markers stroke fill"
+       style="fill:#000000;stroke:none;stroke-width:54.0173;stroke-linecap:square;paint-order:markers stroke fill"
        id="ellipse16939"
-       cx="48.975281"
-       cy="138.215"
-       rx="4.0695682"
-       ry="4.2042956" />
+       cx="109.95018"
+       cy="299.0152"
+       rx="15.658655"
+       ry="16.177052" />
     <ellipse
-       style="fill:#000000;stroke:none;stroke-width:11.6847;stroke-linecap:square;paint-order:markers stroke fill"
+       style="fill:#000000;stroke:none;stroke-width:44.9597;stroke-linecap:square;paint-order:markers stroke fill"
        id="ellipse16941"
-       cx="40.384502"
-       cy="121.78047"
-       rx="3.1980398"
-       ry="3.7062795" />
+       cx="76.895065"
+       cy="235.77934"
+       rx="12.305236"
+       ry="14.260813" />
   </g>
 </svg>

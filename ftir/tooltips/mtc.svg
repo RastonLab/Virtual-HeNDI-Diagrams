@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="500"
-   height="500"
-   viewBox="0 0 132.29167 132.29167"
+   width="238.2403"
+   height="300"
+   viewBox="0 0 238.2403 300"
    version="1.1"
    id="svg4953"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
-   sodipodi:docname="detector-MTC.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="mtc.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -16,7 +16,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview4955"
-     pagecolor="#505050"
+     pagecolor="#ffffff"
      bordercolor="#eeeeee"
      borderopacity="1"
      inkscape:showpageshadow="0"
@@ -25,15 +25,15 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.96298247"
-     inkscape:cx="185.88085"
-     inkscape:cy="280.37894"
-     inkscape:window-width="1280"
-     inkscape:window-height="772"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g5563" />
+     inkscape:zoom="3.8519299"
+     inkscape:cx="112.8006"
+     inkscape:cy="152.78056"
+     inkscape:window-width="2498"
+     inkscape:window-height="1417"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="mtc" />
   <defs
      id="defs4950">
     <linearGradient
@@ -44,7 +44,8 @@
        y1="40.778233"
        x2="108.08436"
        y2="40.778233"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.705673,0,0,2.705673,-39.858001,-28.020862)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient51871">
@@ -77,7 +78,8 @@
        y1="71.976532"
        x2="113.14297"
        y2="71.976532"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.705673,0,0,2.705673,-39.858001,-28.020862)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient47285">
@@ -114,7 +116,8 @@
        y1="71.976532"
        x2="115.71782"
        y2="71.976532"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.705673,0,0,2.705673,-39.858001,-28.020862)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient48050">
@@ -151,7 +154,8 @@
        y1="15.146142"
        x2="81.038315"
        y2="15.146142"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.705673,0,0,2.705673,-39.858001,-28.020862)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient10014">
@@ -188,7 +192,8 @@
        y1="64.209282"
        x2="95.537193"
        y2="64.468185"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.705673,0,0,2.705673,-39.858001,-28.020862)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5172">
@@ -225,7 +230,8 @@
        y1="116.50877"
        x2="96.572823"
        y2="116.76768"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.705673,0,0,2.705673,-39.858001,-28.020862)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient7092">
@@ -262,7 +268,8 @@
        y1="86.866188"
        x2="55.555779"
        y2="86.866188"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.705673,0,0,2.705673,-39.225011,-28.900302)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient17339">
@@ -299,7 +306,8 @@
        y1="87.341522"
        x2="48.031143"
        y2="87.341522"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.7056731,0,0,2.7056731,-38.961393,-29.254723)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient23891">
@@ -337,7 +345,7 @@
        y1="86.866188"
        x2="55.555779"
        y2="86.866188"
-       gradientTransform="matrix(0.35558731,0,0,0.33502053,25.067492,57.831694)" />
+       gradientTransform="matrix(0.96210298,0,0,0.90645602,28.638808,127.62377)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient26823">
@@ -374,7 +382,8 @@
        y1="38.577351"
        x2="83.627411"
        y2="38.577351"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.705673,0,0,2.705673,-39.858001,-28.020862)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient30571">
@@ -417,120 +426,113 @@
        id="rect41333" />
   </defs>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="mtc"
      inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g5090"
-       transform="translate(-36.013854,12.098041)">
-      <g
-         id="g5563"
-         transform="translate(29.574518,-11.246648)">
-        <path
-           id="rect49618"
-           style="fill:url(#linearGradient51873);fill-opacity:1;stroke:none;stroke-width:2.48487;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           d="m 87.132765,34.315335 v 12.925793 h 14.543015 v -0.08015 a 5.5460822,6.462858 0 0 0 0.86245,0.08015 5.5460822,6.462858 0 0 0 5.54613,-6.462897 5.5460822,6.462858 0 0 0 -5.54613,-6.462896 5.5460822,6.462858 0 0 0 -0.86245,0.07959 v -0.07959 z" />
-        <rect
-           style="fill:url(#linearGradient47287);fill-opacity:1;stroke:url(#linearGradient48052);stroke-width:2.10688;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect44375"
-           width="28.479921"
-           height="25.37302"
-           x="84.663048"
-           y="59.29002" />
-        <ellipse
-           style="fill:url(#linearGradient10016);fill-opacity:1;stroke-width:5.09472;stroke-linecap:square;paint-order:markers stroke fill"
-           id="path9282"
-           cx="65.892174"
-           cy="15.146142"
-           rx="15.14614"
-           ry="4.7898049" />
-        <path
-           id="rect4995"
-           style="fill:url(#linearGradient5174);fill-opacity:1;stroke-width:7.07971;stroke-linecap:square;paint-order:markers stroke fill"
-           d="m 66.409899,14.498856 a 28.609379,7.6377974 0 0 0 -28.59257,7.503418 H 37.645247 V 120.45776 H 95.130626 V 22.002274 H 95.014354 A 28.609379,7.6377974 0 0 0 66.409899,14.498856 Z" />
-        <path
-           id="path5000"
-           style="fill:url(#linearGradient7094);fill-opacity:1;stroke-width:2.12413;stroke-linecap:square;paint-order:markers stroke fill"
-           d="m 66.41089,112.10732 a 29.897917,0.65791026 0 0 0 -29.880351,0.64633 h -0.17983 v 8.48083 h 60.074454 v -8.48083 H 96.303656 A 29.897917,0.65791026 0 0 0 66.41089,112.10732 Z" />
-        <ellipse
-           style="fill:url(#linearGradient17341);fill-opacity:1;stroke-width:6.79597;stroke-linecap:square;paint-order:markers stroke fill"
-           id="path12977"
-           cx="39.891823"
-           cy="86.866188"
-           rx="15.663958"
-           ry="24.337387"
-           transform="rotate(-1.2742597)" />
-        <ellipse
-           style="fill:url(#linearGradient23893);fill-opacity:1;stroke-width:8.37445;stroke-linecap:square;paint-order:markers stroke fill"
-           id="path21707"
-           cx="38.710442"
-           cy="87.341522"
-           rx="9.3207016"
-           ry="15.405048"
-           transform="rotate(-1.7937035)" />
-        <ellipse
-           style="fill:url(#linearGradient26083);fill-opacity:1;stroke-width:2.34563;stroke-linecap:square;paint-order:markers stroke fill"
-           id="ellipse26081"
-           cx="39.252518"
-           cy="86.933655"
-           rx="5.5699043"
-           ry="8.1535244"
-           transform="matrix(0.9997805,-0.02095131,0.02360404,0.99972139,0,0)" />
-        <rect
-           style="fill:url(#linearGradient30573);fill-opacity:1;stroke-width:5.95896;stroke-linecap:square;paint-order:markers stroke fill"
-           id="rect28387"
-           width="45.826786"
-           height="29.515554"
-           x="37.800625"
-           y="23.819572" />
-        <text
-           xml:space="preserve"
-           style="font-size:3.22746px;fill:#000000;fill-opacity:1;stroke-width:5.20866;stroke-linecap:square;paint-order:markers stroke fill"
-           x="55.459572"
-           y="49.052765"
-           id="text32821"
-           transform="scale(1.0130464,0.9871216)"><tspan
-             sodipodi:role="line"
-             id="tspan32819"
-             style="fill:#000000;fill-opacity:1;stroke-width:5.20866"
-             x="55.459572"
-             y="49.052765">TECHNOLOGIES</tspan></text>
-        <text
-           xml:space="preserve"
-           transform="matrix(0.23024523,0,0,0.20396073,13.199914,20.575563)"
-           id="text35311"
-           style="font-size:13.3333px;white-space:pre;shape-inside:url(#rect35313);display:inline;fill:#565656;fill-opacity:1;stroke-width:21.518;stroke-linecap:square;paint-order:markers stroke fill"><tspan
-             x="194.73242"
-             y="153.07648"
-             id="tspan5893">(215) 368-6900</tspan></text>
-        <text
-           xml:space="preserve"
-           transform="matrix(0.39912259,0,0,0.46596672,-14.64099,-40.302684)"
-           id="text41331"
-           style="font-size:13.3333px;white-space:pre;shape-inside:url(#rect41333);display:inline;fill:#000000;fill-opacity:1;stroke-width:21.518;stroke-linecap:square;paint-order:markers stroke fill" />
-        <text
-           xml:space="preserve"
-           style="font-size:5.2446px;white-space:pre;inline-size:47.4604;fill:#ff0000;stroke-width:3.96875;paint-order:markers stroke fill"
-           x="56.719326"
-           y="28.822044"
-           id="text5669"
-           transform="matrix(1.01803,0,0,1,-2.4014114,-0.82426217)"><tspan
-             x="56.719326"
-             y="28.822044"
-             id="tspan5897"><tspan
-               style="fill:#000000"
-               id="tspan5895">Mercury-</tspan></tspan><tspan
-             x="56.719326"
-             y="35.377794"
-             id="tspan5901"><tspan
-               style="fill:#000000"
-               id="tspan5899">Cadmium-</tspan></tspan><tspan
-             x="56.719326"
-             y="41.933542"
-             id="tspan5905"><tspan
-               style="fill:#000000"
-               id="tspan5903">Telluride</tspan></tspan></text>
-      </g>
-    </g>
+     id="mtc"
+     transform="translate(-30.879845)">
+    <path
+       id="rect49618"
+       style="fill:url(#linearGradient51873);fill-opacity:1;stroke:none;stroke-width:6.72325;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 195.89476,64.825214 V 99.79818 h 39.34865 v -0.21686 a 15.005885,17.486381 0 0 0 2.3335,0.21686 15.005885,17.486381 0 0 0 15.00602,-17.486482 15.005885,17.486381 0 0 0 -15.00602,-17.486484 15.005885,17.486381 0 0 0 -2.3335,0.215345 v -0.215345 z" />
+    <rect
+       style="fill:url(#linearGradient47287);fill-opacity:1;stroke:url(#linearGradient48052);stroke-width:5.70053;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect44375"
+       width="77.057358"
+       height="68.651093"
+       x="189.21252"
+       y="132.39854" />
+    <ellipse
+       style="fill:url(#linearGradient10016);fill-opacity:1;stroke-width:13.7846;stroke-linecap:square;paint-order:markers stroke fill"
+       id="path9282"
+       cx="138.42468"
+       cy="12.959646"
+       rx="40.980503"
+       ry="12.959646" />
+    <path
+       id="rect4995"
+       style="fill:url(#linearGradient5174);fill-opacity:1;stroke-width:19.1554;stroke-linecap:square;paint-order:markers stroke fill"
+       d="M 139.82546,11.208302 A 77.407625,20.665382 0 0 0 62.463326,31.510097 H 61.997728 V 297.89845 H 217.53436 V 31.510097 h -0.31459 A 77.407625,20.665382 0 0 0 139.82546,11.208302 Z" />
+    <path
+       id="path5000"
+       style="fill:url(#linearGradient7094);fill-opacity:1;stroke-width:5.7472;stroke-linecap:square;paint-order:markers stroke fill"
+       d="m 139.82815,275.30489 a 80.893987,1.78009 0 0 0 -80.846457,1.74875 H 58.495132 V 300 H 221.03695 v -22.94636 h -0.32875 a 80.893987,1.78009 0 0 0 -80.88005,-1.74875 z" />
+    <ellipse
+       style="fill:url(#linearGradient17341);fill-opacity:1;stroke-width:18.3877;stroke-linecap:square;paint-order:markers stroke fill"
+       id="path12977"
+       cx="68.709213"
+       cy="206.1312"
+       rx="42.381546"
+       ry="65.849014"
+       transform="rotate(-1.2742597)" />
+    <ellipse
+       style="fill:url(#linearGradient23893);fill-opacity:1;stroke-width:22.6585;stroke-linecap:square;paint-order:markers stroke fill"
+       id="path21707"
+       cx="65.776405"
+       cy="207.06288"
+       rx="25.218771"
+       ry="41.681023"
+       transform="rotate(-1.7937035)" />
+    <ellipse
+       style="fill:url(#linearGradient26083);fill-opacity:1;stroke-width:6.34651;stroke-linecap:square;paint-order:markers stroke fill"
+       id="ellipse26081"
+       cx="67.018852"
+       cy="206.36415"
+       rx="15.07034"
+       ry="22.060772"
+       transform="matrix(0.9997805,-0.02095131,0.02360404,0.99972139,0,0)" />
+    <rect
+       style="fill:url(#linearGradient30573);fill-opacity:1;stroke-width:16.123;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect28387"
+       width="123.9923"
+       height="79.859436"
+       x="62.418129"
+       y="36.427116" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.73245px;fill:#000000;fill-opacity:1;stroke-width:14.0929;stroke-linecap:square;paint-order:markers stroke fill"
+       x="110.71077"
+       y="104.33431"
+       id="text32821"
+       transform="scale(1.0130464,0.98712161)"><tspan
+         sodipodi:role="line"
+         id="tspan32819"
+         style="fill:#000000;fill-opacity:1;stroke-width:14.0929"
+         x="110.71077"
+         y="104.33431">TECHNOLOGIES</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.62296831,0,0,0.55185104,-4.14335,27.649884)"
+       id="text35311"
+       style="font-size:13.3333px;white-space:pre;shape-inside:url(#rect35313);display:inline;fill:#565656;fill-opacity:1;stroke-width:21.518;stroke-linecap:square;paint-order:markers stroke fill"><tspan
+         x="194.73242"
+         y="153.07648"
+         id="tspan363">(215) 368-6900</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.39912259,0,0,0.46596672,-21.080326,-39.451291)"
+       id="text41331"
+       style="font-size:13.3333px;white-space:pre;shape-inside:url(#rect41333);display:inline;fill:#000000;fill-opacity:1;stroke-width:21.518;stroke-linecap:square;paint-order:markers stroke fill" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.2446px;white-space:pre;inline-size:47.4604;fill:#ff0000;stroke-width:3.96875;paint-order:markers stroke fill"
+       x="56.719326"
+       y="28.822044"
+       id="text5669"
+       transform="matrix(2.7544563,0,0,2.705673,-46.355435,-30.251046)"><tspan
+         x="56.719326"
+         y="28.822044"
+         id="tspan367"><tspan
+           style="fill:#000000"
+           id="tspan365">Mercury-</tspan></tspan><tspan
+         x="56.719326"
+         y="35.377794"
+         id="tspan371"><tspan
+           style="fill:#000000"
+           id="tspan369">Cadmium-</tspan></tspan><tspan
+         x="56.719326"
+         y="41.933542"
+         id="tspan375"><tspan
+           style="fill:#000000"
+           id="tspan373">Telluride</tspan></tspan></text>
   </g>
 </svg>
