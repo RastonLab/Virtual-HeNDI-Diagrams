@@ -25,9 +25,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.41042349"
-     inkscape:cx="1938.2419"
-     inkscape:cy="1550.8372"
+     inkscape:zoom="0.29021323"
+     inkscape:cx="2058.831"
+     inkscape:cy="1552.3069"
      inkscape:window-width="2498"
      inkscape:window-height="1417"
      inkscape:window-x="54"
@@ -515,7 +515,7 @@
        x2="171.70763"
        y2="185.42915"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.01796556,-0.61902683,0.21753755,-0.00906587,-1.298486,147.36017)" />
+       gradientTransform="matrix(0.01796556,-0.61902683,0.21753755,-0.00906587,-1.6098032,147.27805)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient31314">
@@ -1578,7 +1578,7 @@
        d="m 20.8318,208.96898 c 1.860464,-3.15715 71.484167,-2.53712 73.288108,0.65267 1.803941,3.18978 -33.544876,63.17566 -37.209281,63.14303 -3.664406,-0.0326 -37.939291,-60.63855 -36.078827,-63.7957 z"
        inkscape:transform-center-x="17.779655"
        inkscape:transform-center-y="33.500608"
-       transform="matrix(1.7097829,-0.22467526,0.82545414,4.6718396,-13.782956,-699.86561)" />
+       transform="matrix(1.7097829,-0.22467526,0.82545414,4.6718396,-13.782952,-699.86561)" />
     <rect
        style="mix-blend-mode:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.11672;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter6137)"
        id="rect49328"
@@ -1790,6 +1790,14 @@
        x="24.075092"
        y="100.75275"
        transform="matrix(8.7953467,0,0,2.4236525,201.27646,1210.7891)" />
+    <ellipse
+       style="mix-blend-mode:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.98869;paint-order:markers stroke fill;filter:url(#filter20114)"
+       id="path20112"
+       cx="192.83911"
+       cy="285.81192"
+       rx="37.379887"
+       ry="20.7934"
+       transform="matrix(9.7004982,0,0,3.0627874,888.3428,1392.1154)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.524;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="box-left"
@@ -1798,12 +1806,12 @@
        x="3.4542925"
        y="21.63188"
        clip-path="url(#clipPath4804)"
-       transform="matrix(14.292538,0,0,13.576202,34.841367,-226.14631)"
+       transform="matrix(14.292538,0,0,13.576202,34.841371,-226.14631)"
        inkscape:label="box-left" />
     <g
        id="parabolic-mirror"
        inkscape:label="parabolic-mirror"
-       transform="matrix(3.7445147,0,0,3.7445147,20.153083,18.233676)">
+       transform="matrix(3.7445147,0,0,3.7445147,20.153087,18.233681)">
       <path
          id="rect16121"
          style="fill:url(#linearGradient9983);fill-opacity:1;stroke:url(#linearGradient18081);stroke-width:11.0144;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -1814,10 +1822,10 @@
          transform="matrix(-0.8386428,0,0,-0.58143357,302.71017,165.47203)" />
     </g>
     <path
-       style="fill:none;stroke:#bb4c00;stroke-width:14.8611;stroke-opacity:1;paint-order:markers stroke fill"
-       d="m 2889.1535,2441.5382 c -28.2396,39.0688 -43.9466,87.0533 -44.2748,135.2585 -0.3282,48.2051 14.7241,96.3991 42.4292,135.8487 27.705,39.4497 67.9297,69.9653 113.385,86.0172 45.4552,16.0519 95.9225,17.563 142.2567,4.2593 10.3533,-2.9727 20.5007,-6.6626 30.3452,-11.0345"
+       style="fill:none;stroke:#bb4c00;stroke-width:14.7373;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 2887.3005,2441.4639 c -32.1761,37.6888 -51.7072,85.9891 -54.7714,135.4497 -3.0643,49.4607 10.3555,99.8024 37.6334,141.1746 27.278,41.3722 68.2601,73.5412 114.9272,90.2125 46.6671,16.6712 98.7556,17.7505 146.0732,3.0266 9.9597,-3.0992 19.7086,-6.8752 29.1574,-11.2934"
        id="hose-2"
-       inkscape:original-d="m 2889.1535,2441.5382 c 85.5191,120.4623 169.1985,240.9236 253.7961,361.3837 84.5979,120.4602 20.2311,-7.3554 30.3452,-11.0345"
+       inkscape:original-d="m 2887.3005,2441.4639 c 82.1718,123.2889 162.576,246.5768 243.8624,369.8634 81.2867,123.2868 19.4392,-7.528 29.1574,-11.2934"
        inkscape:path-effect="#path-effect11247"
        inkscape:label="hose-2" />
     <path
@@ -1957,7 +1965,7 @@
       <path
          id="path31294"
          style="fill:url(#linearGradient31318);fill-opacity:1;stroke-width:0.347029"
-         d="m 38.506767,50.850689 a 0.88919973,11.33118 1.6875172 0 0 0.472568,11.222877 l -0.002,0.06984 0.09132,-0.0037 4.704515,-0.196061 0.002,-0.06984 a 0.88919973,11.33118 1.6875172 0 0 0.08929,0.06608 0.88919973,11.33118 1.6875172 0 0 1.21963,-11.363245 0.88919973,11.33118 1.6875172 0 0 -0.562211,-11.28898 0.88919973,11.33118 1.6875172 0 0 -0.09339,0.07513 l 0.0021,-0.07128 -4.704516,0.196059 -0.09132,0.0037 -0.0021,0.07129 A 0.88919973,11.33118 1.6875172 0 0 38.50676,50.85072 Z m 0.556843,11.461873 4.846867,-0.374659 z" />
+         d="m 38.19545,50.768568 a 0.88919973,11.33118 1.6875172 0 0 0.472568,11.222877 l -0.002,0.06984 0.09132,-0.0037 4.704515,-0.196061 0.002,-0.06984 a 0.88919973,11.33118 1.6875172 0 0 0.08929,0.06608 0.88919973,11.33118 1.6875172 0 0 1.21963,-11.363245 0.88919973,11.33118 1.6875172 0 0 -0.562211,-11.28898 0.88919973,11.33118 1.6875172 0 0 -0.09339,0.07513 l 0.0021,-0.07128 -4.704516,0.196059 -0.09132,0.0037 -0.0021,0.07129 a 0.88919973,11.33118 1.6875172 0 0 -1.125893,11.288161 z m 0.556843,11.461873 4.846867,-0.374659 z" />
       <path
          id="path76314"
          style="fill:url(#linearGradient76316);fill-opacity:1;stroke-width:0.158841"
@@ -2087,61 +2095,15 @@
        id="lecture"
        transform="matrix(0.00790549,-5.0931247,3.3362161,0.00973203,1866.3873,2971.9162)"
        inkscape:label="lecture">
-      <ellipse
-         style="fill:#800000;stroke-width:0.697593"
-         id="path836"
-         cx="32.56144"
-         cy="471.54736"
-         rx="15.57327"
-         ry="4.2389007" />
-      <rect
-         style="fill:#800000;stroke-width:0.694687"
-         id="rect937"
-         width="29.224394"
-         height="61.766834"
-         x="17.938551"
-         y="410.38223" />
-      <rect
-         style="fill:#4d4d4d;stroke-width:0.694687"
-         id="rect1303"
-         width="6.8903041"
-         height="19.680609"
-         x="29.343193"
-         y="380.40717"
-         inkscape:label="rect1303" />
-      <ellipse
-         style="fill:#800000;stroke-width:0.718186"
-         id="path1017"
-         cx="32.540062"
-         cy="411.20291"
-         rx="14.601511"
-         ry="13.927815"
-         inkscape:label="path1017" />
       <path
-         sodipodi:type="star"
-         style="fill:#4d4d4d"
-         id="path1413"
-         inkscape:flatsided="true"
-         sodipodi:sides="5"
-         sodipodi:cx="42.470413"
-         sodipodi:cy="344.39645"
-         sodipodi:r1="13.513313"
-         sodipodi:r2="10.9325"
-         sodipodi:arg1="0.92729522"
-         sodipodi:arg2="1.5556137"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 50.578401,355.2071 -15.884021,0.24118 -5.137808,-15.03207 12.708682,-9.53151 12.992205,9.14127 z"
-         inkscape:transform-center-x="0.039013961"
-         inkscape:transform-center-y="-0.3845617"
-         transform="matrix(0.61538459,0,0,0.31266303,6.53391,270.67189)" />
-      <rect
-         style="fill:#4d4d4d"
-         id="rect1415"
-         width="15.784025"
-         height="3.2722981"
-         x="24.830967"
-         y="386.51614" />
+         id="rect1303"
+         style="fill:#4d4d4d;stroke-width:0.694687"
+         inkscape:label="rect1303"
+         d="m 40.615042,386.51591 -4.381289,4.3e-4 -3.01e-4,-4.77361 1.425767,-0.011 2.879322,-4.74648 -7.995322,-2.85786 -7.820803,2.98023 3.161975,4.69996 1.458747,-0.0111 1.99e-4,4.71975 -4.512441,1.5e-4 1.17e-4,3.27197 4.512057,-1.5e-4 1.22e-4,10.29949 6.890417,7e-5 -1.23e-4,-10.29949 4.381673,1.5e-4 z" />
+      <path
+         id="path836"
+         style="fill:#800000;stroke-width:0.697593"
+         d="m 48.134636,471.5472 a 15.57327,4.2389007 0 0 0 -0.971869,-1.46948 l 2.11e-4,-59.69525 -0.04947,1.2e-4 a 13.927815,14.601511 90 0 0 -14.57361,-13.10722 13.927815,14.601511 90 0 0 -14.573374,13.10662 l -0.02799,7e-5 -1.82e-4,59.71047 a 15.57327,4.2389007 0 0 0 -0.950175,1.45471 15.57327,4.2389007 0 0 0 15.573278,4.23908 15.57327,4.2389007 0 0 0 15.573184,-4.23912 z" />
       <rect
          style="fill:#666666;stroke-width:0.999996"
          id="rect1697"
@@ -2150,28 +2112,22 @@
          x="19.780813"
          y="413.44748" />
     </g>
-    <path
-       id="valve-2"
-       style="fill:#000000;stroke-width:3.11565"
-       inkscape:label="valve-2"
-       d="m 2861.3125,2360.3125 -0.4473,37.2617 -24.3574,-0.2656 -0.1406,11.8399 24.3574,0.2636 -0.207,17.2695 -7.9258,-0.047 -16.2129,16.9981 44.3242,10.8242 43.6055,-10.3086 -17.3731,-17.1953 -8.1113,-0.047 0.2051,-17.0781 25.084,0.2734 0.1426,-11.8379 -25.086,-0.2734 0.4473,-37.2617 z" />
-    <path
-       id="valve-1"
-       style="fill:#000000;stroke-width:3.11565"
-       inkscape:label="valve-1"
-       d="m 2562.3242,2360.3125 -0.4453,37.2617 -24.3574,-0.2656 -0.1426,11.8398 24.3574,0.2637 -0.2051,17.2695 -7.9277,-0.045 -16.2129,16.9981 44.3242,10.8242 43.6055,-10.3085 -17.3731,-17.1954 -8.1093,-0.047 0.2031,-17.0781 25.084,0.2735 0.1426,-11.8379 -25.084,-0.2735 0.4453,-37.2617 z" />
     <g
        id="sample-compartment"
        inkscape:label="sample-compartment"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
-      <ellipse
-         style="mix-blend-mode:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.98869;paint-order:markers stroke fill;filter:url(#filter20114)"
-         id="path20112"
-         cx="192.83911"
-         cy="285.81192"
-         rx="37.379887"
-         ry="20.7934"
-         transform="matrix(2.5905889,0,0,0.81793975,226.69913,366.58281)" />
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
+      <path
+         id="valve-2"
+         style="fill:#000000;stroke-width:3.11565"
+         inkscape:label="valve-2"
+         d="m 2861.3125,2360.3125 -0.4473,37.2617 -24.3574,-0.2656 -0.1406,11.8399 24.3574,0.2636 -0.207,17.2695 -7.9258,-0.047 -16.2129,16.9981 44.3242,10.8242 43.6055,-10.3086 -17.3731,-17.1953 -8.1113,-0.047 0.2051,-17.0781 25.084,0.2734 0.1426,-11.8379 -25.086,-0.2734 0.4473,-37.2617 z"
+         transform="matrix(0.2670573,0,0,0.2670573,-10.539303,-5.191766)" />
+      <path
+         id="valve-1"
+         style="fill:#000000;stroke-width:3.11565"
+         inkscape:label="valve-1"
+         d="m 2562.3242,2360.3125 -0.4453,37.2617 -24.3574,-0.2656 -0.1426,11.8398 24.3574,0.2637 -0.2051,17.2695 -7.9277,-0.045 -16.2129,16.9981 44.3242,10.8242 43.6055,-10.3085 -17.3731,-17.1954 -8.1093,-0.047 0.2031,-17.0781 25.084,0.2735 0.1426,-11.8379 -25.084,-0.2735 0.4453,-37.2617 z"
+         transform="matrix(0.2670573,0,0,0.2670573,-10.539303,-5.191766)" />
       <rect
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.81196;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect7077"
@@ -2250,7 +2206,7 @@
     <g
        id="parabolic-mirror-hole-2"
        inkscape:label="parabolic-mirror-hole-2"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <path
          id="path1308"
          clip-path="url(#clipPath1416-8)"
@@ -2263,7 +2219,7 @@
     <g
        id="parabolic-mirror-hole-1"
        inkscape:label="parabolic-mirror-hole-1"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <path
          id="path26018"
          clip-path="url(#clipPath1416-8)"
@@ -2276,7 +2232,7 @@
     <g
        id="laser"
        inkscape:label="laser"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <path
          id="rect27237"
          style="fill:url(#linearGradient27414);fill-opacity:1;stroke-width:7.10322;stroke-linecap:square;paint-order:markers stroke fill"
@@ -2375,7 +2331,7 @@
     <g
        id="aperture-wheel"
        inkscape:label="aperture-wheel"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <rect
          style="fill:#005a80;fill-opacity:1;stroke:#000000;stroke-width:3.77449;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect9142"
@@ -2396,7 +2352,7 @@
     <g
        id="apd"
        inkscape:label="apd"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <rect
          style="fill:url(#linearGradient64791);fill-opacity:1;stroke:url(#linearGradient65556);stroke-width:10.8109;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
          id="rect64392"
@@ -2409,7 +2365,7 @@
     <g
        id="tungsten"
        inkscape:label="tungsten"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <ellipse
          style="fill:url(#radialGradient9180-4);fill-opacity:1;stroke-width:1.60222;stroke-linecap:square;paint-order:markers stroke fill"
          id="path8786-5"
@@ -2421,7 +2377,7 @@
     <g
        id="globar"
        inkscape:label="globar"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <ellipse
          style="fill:url(#radialGradient9180-4-7);fill-opacity:1;stroke-width:1.60222;stroke-linecap:square;paint-order:markers stroke fill"
          id="path8786-5-3"
@@ -2449,7 +2405,7 @@
     <g
        id="movable-corner-cube"
        inkscape:label="movable-corner-cube"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <path
          id="path2931"
          style="fill:url(#linearGradient2933);fill-opacity:1;stroke:#f7c400;stroke-width:2.95728;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -2465,7 +2421,7 @@
     <g
        id="fixed-corner-cube"
        inkscape:label="fixed-corner-cube"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <path
          id="path13600"
          style="fill:url(#linearGradient48986);fill-opacity:1;stroke:#f7c400;stroke-width:3.03295;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -2480,7 +2436,7 @@
     <g
        id="fixed-mirror"
        inkscape:label="fixed-mirror"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <rect
          style="fill:url(#linearGradient45340);fill-opacity:1;stroke:#f7c400;stroke-width:1.67273;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect45338"
@@ -2505,7 +2461,7 @@
     <g
        id="flat-rotatable-mirror-3"
        inkscape:label="flat-rotatable-mirror-3"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <rect
          style="fill:url(#linearGradient51110);fill-opacity:1;stroke:#fec900;stroke-width:1.93705;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect51108"
@@ -2531,7 +2487,7 @@
     <g
        id="flat-rotatable-mirror-2"
        inkscape:label="flat-rotatable-mirror-2"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <rect
          style="fill:url(#linearGradient51114);fill-opacity:1;stroke:#fec900;stroke-width:1.67273;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect51112"
@@ -2556,7 +2512,7 @@
     <g
        id="flat-rotatable-mirror-1"
        inkscape:label="flat-rotatable-mirror-1"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <rect
          style="fill:url(#linearGradient10028);fill-opacity:1;stroke:#f7c400;stroke-width:2.10688;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect9968"
@@ -2582,7 +2538,7 @@
     <g
        id="insb"
        inkscape:label="insb"
-       transform="matrix(3.7445147,0,0,3.7445147,39.464575,19.440644)">
+       transform="matrix(3.7445147,0,0,3.7445147,39.464579,19.440649)">
       <rect
          style="fill:#ff0000;fill-opacity:1;stroke:#af9204;stroke-width:2.64584;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect22391"
