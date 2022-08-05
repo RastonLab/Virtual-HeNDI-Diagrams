@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="219.34235"
-   height="222.27824"
-   viewBox="0 0 58.034331 58.811118"
+   width="300"
+   height="279.15125"
+   viewBox="0 0 300 279.15125"
    version="1.1"
    id="svg6714"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
@@ -25,17 +25,27 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.42133591"
-     inkscape:cx="-630.13855"
-     inkscape:cy="471.12054"
-     inkscape:window-width="2498"
-     inkscape:window-height="1417"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="2.3834358"
+     inkscape:cx="33.355209"
+     inkscape:cy="90.835254"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="2614"
+     inkscape:window-y="107"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="svg6714" />
   <defs
      id="defs6711">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10026"
+       id="linearGradient45340"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.80626123,0,0,0.78180193,-755.58518,30.542612)"
+       x1="145.96878"
+       y1="63.453781"
+       x2="230.23941"
+       y2="63.453781" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient10026">
@@ -67,31 +77,37 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient10026"
-       id="linearGradient45340"
+       id="linearGradient4522"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.80626123,0,0,0.78180193,-644.71357,61.117248)"
+       gradientTransform="matrix(0.82486374,0,0,0.80275835,-760.10018,33.88851)"
        x1="145.96878"
        y1="63.453781"
        x2="230.23941"
        y2="63.453781" />
   </defs>
   <g
-     inkscape:label="ftir"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-393.93264,-232.87906)">
-    <g
-       id="fixed-mirror">
-      <rect
-         style="fill:url(#linearGradient45340);fill-opacity:1;stroke:#f7c400;stroke-width:1.67273;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect10254"
-         width="67.944145"
-         height="11.372651"
-         x="-527.0246"
-         y="105.03921"
-         transform="matrix(-0.71169436,-0.70248924,0.65068195,-0.75935038,0,0)"
-         inkscape:transform-center-x="2.4232932"
-         inkscape:transform-center-y="-12.606122" />
-    </g>
+     id="fixed-mirror"
+     inkscape:label="fixed-mirror"
+     transform="matrix(4.9670703,0,0,4.9670703,-2353.9174,-1509.744)">
+    <rect
+       style="fill:url(#linearGradient45340);fill-opacity:1;stroke:#f7c400;stroke-width:1.67273;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect45338"
+       width="67.944145"
+       height="11.372651"
+       x="-637.89624"
+       y="74.464577"
+       transform="matrix(-0.7549429,-0.65579053,0.60105646,-0.79920655,0,0)"
+       inkscape:transform-center-x="3.2203578"
+       inkscape:transform-center-y="-12.426439" />
+    <rect
+       style="fill:url(#linearGradient4522);fill-opacity:1;stroke:none;stroke-width:1.71444;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect4520"
+       width="69.511787"
+       height="11.677498"
+       x="-639.69586"
+       y="78.987816"
+       transform="matrix(-0.74923414,-0.66230523,0.5943429,-0.80421176,0,0)"
+       inkscape:transform-center-x="3.2697652"
+       inkscape:transform-center-y="-12.839459" />
   </g>
 </svg>

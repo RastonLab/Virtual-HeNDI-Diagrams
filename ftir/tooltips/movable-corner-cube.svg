@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="331.0513"
-   height="535.62396"
-   viewBox="0 0 87.590659 141.71717"
+   width="185.42"
+   height="300"
+   viewBox="0 0 185.42 300"
    version="1.1"
    id="svg6714"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
@@ -25,17 +25,27 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.42133591"
-     inkscape:cx="-1249.5968"
-     inkscape:cy="532.82902"
-     inkscape:window-width="2498"
-     inkscape:window-height="1417"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.84267182"
+     inkscape:cx="4.1534556"
+     inkscape:cy="228.44006"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="2614"
+     inkscape:window-y="107"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="svg6714" />
   <defs
      id="defs6711">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient48984"
+       id="linearGradient2933"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.9279785,-1.5689873,0,958.48819,709.8929)"
+       x1="304.20673"
+       y1="103.94676"
+       x2="452.36444"
+       y2="103.94676" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient48984">
@@ -67,26 +77,28 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient48984"
-       id="linearGradient2933"
+       id="linearGradient4118"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-0.9279785,-1.5689873,0,764.4694,638.26382)"
+       gradientTransform="matrix(0,-0.94968234,-1.6143696,0,963.88508,718.11067)"
        x1="304.20673"
        y1="103.94676"
        x2="452.36444"
        y2="103.94676" />
   </defs>
   <g
-     inkscape:label="ftir"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-557.57784,-216.41963)">
-    <g
-       id="movable-corner-cube">
-      <path
-         id="path2931"
-         style="fill:url(#linearGradient2933);fill-opacity:1;stroke:#f7c400;stroke-width:2.95728;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="m 643.06748,280.54476 -67.10416,75.42172 -12.10638,-12.44742 57.38711,-62.53501 -61.55501,-51.46375 9.70412,-11.04098 73.18539,61.18784 -0.22657,0.25823 z"
-         sodipodi:nodetypes="ccccccccc" />
-    </g>
+     id="movable-corner-cube"
+     inkscape:label="movable-corner-cube"
+     transform="matrix(2.1168924,0,0,2.1168924,-1591.0492,-609.76813)">
+    <path
+       id="path2931"
+       style="fill:url(#linearGradient2933);fill-opacity:1;stroke:#f7c400;stroke-width:2.95728;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 837.08627,352.17384 -67.10416,75.42172 -12.10638,-12.44742 57.38711,-62.53501 -61.55501,-51.46375 9.70412,-11.04098 73.18539,61.18784 -0.22657,0.25823 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       id="path4116"
+       style="fill:url(#linearGradient4118);fill-opacity:1;stroke:none;stroke-width:3.03462;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 838.9717,352.02515 -69.04512,77.18571 -12.45655,-12.73854 59.04701,-63.9976 -63.33547,-52.6674 9.98481,-11.29921 75.30225,62.61892 -0.23313,0.26427 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="path4116" />
   </g>
 </svg>
