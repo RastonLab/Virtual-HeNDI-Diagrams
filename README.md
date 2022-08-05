@@ -23,4 +23,4 @@ Contents
 
 ### Exterior
 
-![FTIR Exterior](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/FTIR_3.svg)
+![FTIR Exterior](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/instrument-window.svg)
