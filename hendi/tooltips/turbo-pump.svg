@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="78.021492"
-   height="35.808601"
-   viewBox="0 0 78.021492 35.808601"
+   width="300"
+   height="137.68745"
+   viewBox="0 0 300 137.68745"
    version="1.1"
    id="svg3976"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
@@ -24,20 +24,20 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.914906"
-     inkscape:cx="-19.674152"
-     inkscape:cy="103.8358"
-     inkscape:window-width="1247"
-     inkscape:window-height="1408"
-     inkscape:window-x="1304"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:zoom="1.829812"
+     inkscape:cx="109.02759"
+     inkscape:cy="97.004501"
+     inkscape:window-width="2498"
+     inkscape:window-height="1417"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg3976" />
   <defs
      id="defs3973" />
   <g
      id="turbo-pump"
-     transform="translate(-126.43164,-363.49219)">
+     transform="matrix(3.8450945,0,0,3.8450945,-486.14159,-1397.6618)">
     <path
        id="rect2080"
        style="fill:#333333;stroke:#000000;stroke-opacity:1;paint-order:markers stroke fill"
