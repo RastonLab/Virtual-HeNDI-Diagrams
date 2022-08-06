@@ -1,7 +1,7 @@
 # Virtual-Instrument-Diagrams
 This repository is the home of the different diagrams used in the construction of our virtual instruments!
 
-* [Inkscape Learning Resources](https://github.com/RastonLab/Virtual-Instruments/wiki/Web-Developer-Tools#inkscape)
+* [Inkscape Learning Resources](https://github.com/RastonLab/Virtual-Instruments/wiki/Web-Developer-Tools#inkscape-tutorials)
 
 Contents
 * [HeNDI (Helium NanoDroplet Isolation)](https://github.com/RastonLab/Virtual-Instrument-Diagrams#hendi)
