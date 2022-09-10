@@ -42,15 +42,6 @@ Contents
 ### [Fixed Mirror](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/fixed-mirror.svg)
 ![FTIR Fixed Mirror](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/fixed-mirror.svg)
 
-### [Flat Rotatable Mirror (1)](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/flat-rotatable-mirror-1.svg)
-![FTIR Flat Rotatable Mirror (1)](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/flat-rotatable-mirror-1.svg)
-
-### [Flat Rotatable Mirror (2)](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/flat-rotatable-mirror-2.svg)
-![FTIR Flat Rotatable Mirror (2)](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/flat-rotatable-mirror-2.svg)
-
-### [Flat Rotatable Mirror (3)](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/flat-rotatable-mirror-3.svg)
-![FTIR Flat Rotatable Mirror (3)](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/flat-rotatable-mirror-3.svg)
-
 ### [Globar](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/globar.svg)
 ![FTIR Globar](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/globar.svg)
 
@@ -62,9 +53,6 @@ Contents
 
 ### [Lecture Bottle](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/lecture.svg)
 ![FTIR Lecture Bottle](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/lecture.svg)
-
-### [Movable Corner Cube](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/movable-corner-cube.svg)
-![FTIR Movable Corner Cube](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/movable-corner-cube.svg)
 
 ### [MTC](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/mtc.svg)
 ![FTIR MTC](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/mtc.svg)
