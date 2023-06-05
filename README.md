@@ -31,4 +31,4 @@ Contents
 
 ## Logo
 
-![Raston Lab Logo](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/rastonlab-logo.svg)
+![Raston Lab Logo](https://raw.githubusercontent.com/VanFossen/Virtual-Instrument-Diagrams/main/logo/rastonlab-logo.svg)
