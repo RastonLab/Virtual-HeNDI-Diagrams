@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1148"
+   sodipodi:docname="RastonLabLogo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1150"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="9.7740196"
+     inkscape:cx="33.200261"
+     inkscape:cy="50.951402"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1148" />
+  <defs
+     id="defs1134">
+    <linearGradient
+       id="b">
+      <stop
+         style="stop-color:#9705ff;stop-opacity:1"
+         offset=".12"
+         id="stop1101" />
+      <stop
+         style="stop-color:#33f;stop-opacity:1"
+         offset=".24"
+         id="stop1103" />
+      <stop
+         style="stop-color:#1bc4e9;stop-opacity:1"
+         offset=".38"
+         id="stop1105" />
+      <stop
+         style="stop-color:#99f53d;stop-opacity:1"
+         offset=".5"
+         id="stop1107" />
+      <stop
+         style="stop-color:#ff3;stop-opacity:1"
+         offset=".64"
+         id="stop1109" />
+      <stop
+         style="stop-color:#f93;stop-opacity:1"
+         offset=".78"
+         id="stop1111" />
+      <stop
+         style="stop-color:#f33;stop-opacity:1"
+         offset=".9"
+         id="stop1113" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#b"
+       id="e"
+       x1="50.015999"
+       y1="89.283997"
+       x2="135.01601"
+       y2="89.283997"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1560742,0,0,1.1560741,-176.4784,-90.313681)" />
+  </defs>
+  <circle
+     style="display:inline;fill:url(#e);fill-opacity:1;stroke:#000000;stroke-width:1.73411;stroke-dasharray:none;stroke-opacity:1"
+     cx="-69.522797"
+     cy="12.906638"
+     transform="rotate(-124.48299)"
+     id="background"
+     r="49.133095" />
+  <path
+     d="m 75.067002,86.841825 h -23.60709 l 6.57193,-34.44342 h 7.49431 l -5.56308,29.0435 h 16.1416 z"
+     id="letter-l"
+     style="font-style:italic;font-size:170.845px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';white-space:pre;stroke-width:0.323292" />
+  <path
+     d="m 57.351172,47.636483 q -0.0923,1.776164 -1.61513,2.841862 -1.3844,0.947288 -3.20721,0.947288 h -8.883263 q -1.822803,0 -2.768813,-0.99465 -0.622983,-0.639421 -1.568993,-2.7945 L 34.762299,37.311054 q 0.853715,-0.165776 3.945556,-1.349886 2.999547,-1.136744 3.76097,-1.563025 4.591612,-2.439262 4.591612,-6.109999 0,-4.215433 -5.814505,-4.215433 H 17.711034 l 3.599455,-5.967909 h 23.234942 q 12.528881,0 12.528881,8.194037 0,6.938876 -13.036496,12.125278 l 4.15322,9.212366 z m -19.312446,-20.50877 -8.421801,24.29792 h -8.306436 l 8.35258,-24.29792 z"
+     id="letter-r"
+     style="font-size:142.433px;font-family:Magneto;-inkscape-font-specification:'Magneto, Normal';white-space:pre;stroke-width:0.336114" />
+</svg>
