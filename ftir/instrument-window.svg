@@ -28,13 +28,13 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="11.313708"
-     inkscape:cx="3798.7986"
-     inkscape:cy="1971.3253"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.17677669"
+     inkscape:cx="1569.7771"
+     inkscape:cy="1609.3751"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      inkscape:current-layer="ftir"
      inkscape:lockguides="false" /><defs
@@ -1519,7 +1519,7 @@
          ry="5.3953624" /></g><g
        id="tungsten"
        inkscape:label="tungsten"
-       transform="matrix(3.7445147,0,0,3.7445147,252.32453,160.44779)"><ellipse
+       transform="matrix(3.7445147,0,0,3.7445147,125.0453,41.653846)"><ellipse
          style="fill:url(#radialGradient9180-4);fill-opacity:1;stroke-width:1.60222;stroke-linecap:square;paint-order:markers stroke fill"
          id="path8786-5"
          cx="104.62793"
@@ -1566,7 +1566,7 @@
          style="fill:url(#linearGradient13678);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.03866;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          d="m 2069,270 v 10 h 320 v 320 h 10 V 280 270 h -10 z" /></g><g
        id="fixed-mirror"
-       transform="matrix(-0.5762748,-0.48239812,0.51685514,-0.61743728,2576.6144,2007.4841)"
+       transform="matrix(-0.5762748,-0.48239812,0.51685514,-0.61743728,2562.4723,2003.2415)"
        inkscape:label="fixed-mirror"><rect
          style="fill:url(#linearGradient9928);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.66484;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect6389-60"
@@ -1615,7 +1615,7 @@
        id="flat-rotatable-mirror-1"
        transform="rotate(-45.441186,839.98372,1440.3904)"
        inkscape:label="flat-rotatable-mirror-1"
-       style="display:inline"><rect
+       style="display:none"><rect
          style="fill:url(#linearGradient6397);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.66484;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect6389"
          width="325"
@@ -1656,9 +1656,6 @@
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
        d="M 295.92419,254.55844 518.18287,476.81712"
        id="tungsten-line" /><path
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
-       d="M 436.47849,591.31661 296.47134,254.02668 613.96229,384.84143"
-       id="path11055" /><path
        id="path3933-5"
        style="fill-rule:evenodd;stroke-width:30.6213;stroke-linecap:square;paint-order:markers stroke fill"
        d="m 1955.1955,1815.4851 v 20.1995 323.394 h 19.0885 v -323.394 h 1317.108 v 323.394 h 19.0889 v -323.394 h 624.5151 v 724.253 h -624.5151 v -248.151 h -19.0889 v 248.151 H 1974.284 v -248.151 h -19.0885 v 267.2397 1.1104 h 2000 v -20.1991 -724.253 -20.1995 H 3934.996 3310.4809 3291.392 1974.284 Z" /><path
