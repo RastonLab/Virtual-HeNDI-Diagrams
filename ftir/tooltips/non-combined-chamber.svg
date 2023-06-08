@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="600"
-   height="250"
-   viewBox="0 0 600 250"
+   width="1840"
+   height="720"
+   viewBox="0 0 1840 720"
    version="1.1"
    id="svg2957"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -24,43 +24,43 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.2938725"
-     inkscape:cx="538.30653"
-     inkscape:cy="0"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="888.83322"
+     inkscape:cy="410.12193"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="2552"
+     inkscape:window-y="105"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2957" />
   <defs
      id="defs2954" />
   <path
-     id="path3933"
-     style="fill-rule:evenodd;stroke-width:8.02087;stroke-linecap:square;paint-order:markers stroke fill"
-     d="m 40,25.000002 h 523.875 v 5.291667 H 40 Z" />
+     id="path3933-4-1"
+     style="fill-rule:evenodd;stroke-width:25.3084;stroke-linecap:square;paint-order:markers stroke fill"
+     d="M 0,0 H 1839.9999 V 15 H 0 Z" />
   <path
-     id="path3930"
-     style="fill-rule:evenodd;stroke-width:8.02087;stroke-linecap:square;paint-order:markers stroke fill"
-     d="m 40,220 h 523.875 v 5.29167 H 40 Z" />
+     id="path3930-1-7"
+     style="fill-rule:evenodd;stroke-width:25.3084;stroke-linecap:square;paint-order:markers stroke fill"
+     d="m 0,705.00002 h 1839.9999 v 15 H 0 Z" />
   <path
-     id="path3927"
-     style="fill-rule:evenodd;stroke-width:4.93649;stroke-linecap:square;paint-order:markers stroke fill"
-     d="M 558.58398,25 V 223.43749 H 563.875 V 25 Z" />
+     id="path3927-0-9"
+     style="fill-rule:evenodd;stroke-width:15.8325;stroke-linecap:square;paint-order:markers stroke fill"
+     d="m 1825,0 v 720 h 15 V 0 Z" />
   <path
-     id="path3924"
-     style="stroke-width:1.79813;stroke-miterlimit:1"
-     d="m 40,24.999998 h 5 v 89.999992 h -5 z" />
+     id="path3921-1-8"
+     style="stroke-width:6.30626;stroke-miterlimit:1"
+     d="m 1230,0 h 15 v 369 h -15 z" />
   <path
-     id="path3921"
-     style="stroke-width:1.79813;stroke-miterlimit:1"
-     d="m 390,24.999998 h 5 v 89.999992 h -5 z" />
+     id="path3918-6-8"
+     style="stroke-width:4.51324;stroke-miterlimit:1"
+     d="m 0,531.00002 h 15 v 189 H 0 Z" />
   <path
-     id="path3918"
-     style="stroke-width:1.5858;stroke-miterlimit:1"
-     d="m 40,155 h 5 v 70 h -5 z" />
+     id="path3915-8-6"
+     style="stroke-width:4.51325;stroke-miterlimit:1"
+     d="m 1230,531.00002 h 15 v 189 h -15 z" />
   <path
-     id="path3915"
-     style="stroke-width:1.5858;stroke-miterlimit:1"
-     d="m 390,155 h 5 v 70 h -5 z" />
+     id="path3133"
+     style="stroke-width:6.30626;stroke-miterlimit:1"
+     d="M 0,0 H 15 V 369 H 0 Z" />
 </svg>
