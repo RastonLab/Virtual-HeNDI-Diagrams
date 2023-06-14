@@ -9,12 +9,13 @@ Contents
   * [Fixed Corner Cube](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#fixed-corner-cube)
   * [Fixed Mirror](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#fixed-mirror)
   * [Globar](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#globar)
-  * [INSB](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#insb)
-  * [Laser Symbol](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#laser-symbol)
-  * [Lecture Bottle](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#lecture-bottle)
+  * [InSb](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#insb)
+  * [Laser](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#laser)
+  * [Lecture](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#lecture)
   * [MTC](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#mtc)
   * [Parabolic Mirror w/ Hole](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#parabolic-mirror-w-hole)
   * [Parabolic Mirror](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#parabolic-mirror)
+  * [Pressure Gauge](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#pressure-gauge)
   * [Pump](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#pump)
   * [Sample Compartment](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#sample-compartment)
   * [Tungsten](https://github.com/RastonLab/Virtual-Instrument-Diagrams/tree/main/ftir#tungsten)
@@ -41,13 +42,13 @@ Contents
 ### [Globar](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/globar.svg)
 ![FTIR Globar](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/globar.svg)
 
-### [INSB](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/insb.svg)
+### [InSb](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/insb.svg)
 ![FTIR INSB](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/insb.svg)
 
-### [Laser Symbol](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/laser.svg)
+### [Laser](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/laser.svg)
 ![FTIR Laser Symbol](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/laser.svg)
 
-### [Lecture Bottle](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/lecture.svg)
+### [Lecture](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/lecture.svg)
 ![FTIR Lecture Bottle](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/lecture.svg)
 
 ### [MTC](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/mtc.svg)
@@ -58,6 +59,9 @@ Contents
 
 ### [Parabolic Mirror](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/parabolic-mirror.svg)
 ![FTIR Parabolic Mirror](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/parabolic-mirror.svg)
+
+### [Pressure Gauge](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/pressure-gauge.svg)
+![Pressure Gauge](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/pressure-gauge.svg)
 
 ### [Pump](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/tooltips/pump.svg)
 ![FTIR Pump](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/tooltips/pump.svg)
