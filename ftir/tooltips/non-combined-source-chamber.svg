@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1010.002"
-   height="690"
-   viewBox="0 0 1010.002 690"
+   width="935.422"
+   height="606.73499"
+   viewBox="0 0 935.42198 606.73499"
    version="1.1"
    id="svg35156"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.9096163"
-     inkscape:cx="726.13035"
-     inkscape:cy="171.50088"
+     inkscape:cx="859.70315"
+     inkscape:cy="307.8221"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -37,43 +37,43 @@
      id="defs35153" />
   <g
      id="source-compartment"
-     transform="translate(768.84851,-242.0607)">
+     transform="translate(694.26849,-242.0607)">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.10543;stroke-linecap:square;paint-order:fill markers stroke"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.91202;stroke-linecap:square;paint-order:fill markers stroke"
        id="rect36440"
        width="25"
-       height="690"
-       x="-768.84851"
+       height="606.72711"
+       x="-694.26849"
        y="242.0607" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.75528;stroke-linecap:square;paint-order:fill markers stroke"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.61253;stroke-linecap:square;paint-order:fill markers stroke"
        id="rect36440-3"
        width="25"
-       height="1009"
+       height="933.75"
        x="-267.0607"
-       y="-768.84851"
+       y="-693.59851"
        transform="rotate(-90)" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.10543;stroke-linecap:square;paint-order:fill markers stroke"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.91202;stroke-linecap:square;paint-order:fill markers stroke"
        id="rect36440-2"
        width="25"
-       height="690"
+       height="606.72992"
        x="216.15352"
        y="242.0607" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.17569;stroke-linecap:square;paint-order:fill markers stroke"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.00707;stroke-linecap:square;paint-order:fill markers stroke"
        id="rect36440-3-5"
        width="25"
-       height="721.58093"
-       x="-932.06073"
-       y="-768.84851"
+       height="646.98975"
+       x="-848.79559"
+       y="-694.25732"
        transform="rotate(-90)" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26551;stroke-linecap:square;paint-order:fill markers stroke"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26959;stroke-linecap:square;paint-order:fill markers stroke"
        id="rect36440-3-5-7"
        width="25"
-       height="114.58197"
-       x="-932.06073"
+       height="115.32222"
+       x="-848.79572"
        y="125.8194"
        transform="rotate(-90)" />
   </g>
