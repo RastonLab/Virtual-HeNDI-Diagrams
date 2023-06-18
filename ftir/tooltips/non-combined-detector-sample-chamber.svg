@@ -3,12 +3,12 @@
 
 <svg
    width="1840"
-   height="720"
-   viewBox="0 0 1840 720"
+   height="647.37799"
+   viewBox="0 0 1840 647.37799"
    version="1.1"
    id="svg2957"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="non-combined-chamber.svg"
+   sodipodi:docname="non-combined-detector-sample-chamber.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,42 +25,46 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="888.83322"
-     inkscape:cy="410.12193"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="2552"
-     inkscape:window-y="105"
+     inkscape:cx="877.51952"
+     inkscape:cy="82.024387"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2957" />
   <defs
      id="defs2954" />
-  <path
-     id="path3933-4-1"
-     style="fill-rule:evenodd;stroke-width:25.3084;stroke-linecap:square;paint-order:markers stroke fill"
-     d="M 0,0 H 1839.9999 V 15 H 0 Z" />
-  <path
-     id="path3930-1-7"
-     style="fill-rule:evenodd;stroke-width:25.3084;stroke-linecap:square;paint-order:markers stroke fill"
-     d="m 0,705.00002 h 1839.9999 v 15 H 0 Z" />
-  <path
-     id="path3927-0-9"
-     style="fill-rule:evenodd;stroke-width:15.8325;stroke-linecap:square;paint-order:markers stroke fill"
-     d="m 1825,0 v 720 h 15 V 0 Z" />
-  <path
-     id="path3921-1-8"
-     style="stroke-width:6.30626;stroke-miterlimit:1"
-     d="m 1230,0 h 15 v 369 h -15 z" />
-  <path
-     id="path3918-6-8"
-     style="stroke-width:4.51324;stroke-miterlimit:1"
-     d="m 0,531.00002 h 15 v 189 H 0 Z" />
-  <path
-     id="path3915-8-6"
-     style="stroke-width:4.51325;stroke-miterlimit:1"
-     d="m 1230,531.00002 h 15 v 189 h -15 z" />
-  <path
-     id="path3133"
-     style="stroke-width:6.30626;stroke-miterlimit:1"
-     d="M 0,0 H 15 V 369 H 0 Z" />
+  <g
+     id="detector-sample-compartment"
+     transform="translate(-2425.1749,-2417.8021)">
+    <path
+       id="path3933-4-1-9"
+       style="fill-rule:evenodd;stroke-width:25.3084;stroke-linecap:square;paint-order:markers stroke fill"
+       d="m 2425.1749,2417.8021 h 1839.9999 v 15 H 2425.1749 Z" />
+    <path
+       id="path3930-1-7-4"
+       style="fill-rule:evenodd;stroke-width:25.3084;stroke-linecap:square;paint-order:markers stroke fill"
+       d="m 2425.1749,3050.1801 h 1839.9999 v 15 H 2425.1749 Z" />
+    <path
+       id="path3927-0-9-4"
+       style="fill-rule:evenodd;stroke-width:14.994;stroke-linecap:square;paint-order:markers stroke fill"
+       d="m 4250.1749,2417.8021 v 645.7538 h 15 v -645.7538 z" />
+    <path
+       id="path3921-1-8-0"
+       style="stroke-width:6.30626;stroke-miterlimit:1"
+       d="m 3655.1749,2417.8021 h 15 v 369 h -15 z" />
+    <path
+       id="path3918-6-8-6"
+       style="stroke-width:3.53567;stroke-miterlimit:1"
+       d="m 2425.1749,2948.8021 h 15 v 115.9915 h -15 z" />
+    <path
+       id="path3915-8-6-5"
+       style="stroke-width:3.52817;stroke-miterlimit:1"
+       d="m 3655.1749,2948.8021 h 15 v 115.5 h -15 z" />
+    <path
+       id="path3133-2"
+       style="stroke-width:6.30626;stroke-miterlimit:1"
+       d="m 2425.1749,2417.8021 h 15 v 369 h -15 z" />
+  </g>
 </svg>
