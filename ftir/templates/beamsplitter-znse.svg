@@ -26,12 +26,12 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="132.58252"
-     inkscape:cy="108.54089"
-     inkscape:window-width="1600"
-     inkscape:window-height="838"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:cx="130.81475"
+     inkscape:cy="106.06601"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg19846" />
   <defs
@@ -62,7 +62,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient15256"
-       id="linearGradient13376"
+       id="linearGradient2600"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.9770745,0,0,3.087119,-621.79732,306.77993)"
        x1="326.34528"
@@ -74,20 +74,13 @@
   <g
      id="beamsplitter-znse">
     <rect
-       style="fill:url(#linearGradient13376);fill-opacity:1;fill-rule:nonzero;stroke:#00800f;stroke-width:10.3009;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       id="rect32961-3-3"
+       style="display:inline;fill:url(#linearGradient2600);fill-opacity:1;fill-rule:nonzero;stroke:#9b0f0f;stroke-width:10.3009;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect32961-3-3-8"
        width="35"
        height="270"
        x="5.1504502"
        y="-275.15045"
        inkscape:label="rect32961"
        transform="rotate(90)" />
-    <rect
-       style="display:inline;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.377964;stroke-dasharray:none"
-       id="rect25794-0-8"
-       width="1.9999999"
-       height="0.99999994"
-       x="139.15045"
-       y="22.150475" />
   </g>
 </svg>
