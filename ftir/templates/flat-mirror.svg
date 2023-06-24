@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210"
+   height="42.000011"
+   viewBox="0 0 210 42.000011"
+   version="1.1"
+   id="svg19246"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="flat-mirror.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19248"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.5852904"
+     inkscape:cx="96.533276"
+     inkscape:cy="21.356919"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19246" />
+  <defs
+     id="defs19243">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9846"
+       id="linearGradient14799"
+       gradientUnits="userSpaceOnUse"
+       x1="-104.69314"
+       y1="496.7326"
+       x2="105.30686"
+       y2="496.7326"
+       gradientTransform="matrix(1,0,0,0.17164752,-37.174463,445.71149)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9846">
+      <stop
+         style="stop-color:#e5ac00;stop-opacity:1;"
+         offset="0"
+         id="stop9834" />
+      <stop
+         style="stop-color:#ffc100;stop-opacity:1;"
+         offset="0.5"
+         id="stop9836" />
+      <stop
+         style="stop-color:#ffc61a;stop-opacity:1;"
+         offset="0.75"
+         id="stop9838" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6395"
+       id="linearGradient4580"
+       x1="-104.69314"
+       y1="496.7326"
+       x2="105.30686"
+       y2="496.7326"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.85823755,-37.174453,81.487228)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6395">
+      <stop
+         style="stop-color:#474747;stop-opacity:1;"
+         offset="0"
+         id="stop6391" />
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0.5"
+         id="stop6399" />
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0.75"
+         id="stop6401" />
+      <stop
+         style="stop-color:#7a7a7a;stop-opacity:1;"
+         offset="0.875"
+         id="stop6403" />
+      <stop
+         style="stop-color:#4a4a4a;stop-opacity:1;"
+         offset="0.9375"
+         id="stop6405" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop6393" />
+    </linearGradient>
+  </defs>
+  <g
+     id="flat-mirror"
+     transform="matrix(1,0,0,0.90625,141.86758,-442.69538)"
+     style="stroke-width:1.00003;stroke-dasharray:none"
+     inkscape:label="flat-mirror">
+    <rect
+       style="fill:url(#linearGradient14799);fill-opacity:1;fill-rule:evenodd;stroke-width:1.00003;stroke-dasharray:none"
+       id="rect2866-5"
+       width="210"
+       height="7.7241378"
+       x="-141.86758"
+       y="527.11212" />
+    <rect
+       style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.377975;stroke-dasharray:none"
+       id="rect25794-0"
+       width="2"
+       height="1.1034483"
+       x="-37.86758"
+       y="533.73285" />
+    <rect
+       style="fill:url(#linearGradient4580);fill-opacity:1;fill-rule:evenodd;stroke-width:1.00003;stroke-dasharray:none"
+       id="rect2866"
+       width="210"
+       height="38.620689"
+       x="-141.86758"
+       y="488.49146" />
+  </g>
+</svg>

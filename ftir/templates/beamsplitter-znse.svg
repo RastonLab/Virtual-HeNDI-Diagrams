@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="280.3009"
+   height="45.3009"
+   viewBox="0 0 280.3009 45.3009"
+   version="1.1"
+   id="svg19846"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="beamsplitter-znse.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19848"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="130.81475"
+     inkscape:cy="106.06601"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19846" />
+  <defs
+     id="defs19843">
+    <linearGradient
+       id="linearGradient15256">
+      <stop
+         style="stop-color:#a2a08c;stop-opacity:1;"
+         offset="0.05000001"
+         id="stop38889" />
+      <stop
+         style="stop-color:#bfb575;stop-opacity:1;"
+         offset="0.24530831"
+         id="stop38887" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.49765414"
+         id="stop38885" />
+      <stop
+         style="stop-color:#bfb575;stop-opacity:1;"
+         offset="0.75"
+         id="stop38883" />
+      <stop
+         style="stop-color:#a2a08c;stop-opacity:1;"
+         offset="0.95"
+         id="stop38881" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15256"
+       id="linearGradient2600"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9770745,0,0,3.087119,-621.79732,306.77993)"
+       x1="326.34528"
+       y1="-188.51602"
+       x2="326.34528"
+       y2="-101.04281"
+       spreadMethod="pad" />
+  </defs>
+  <g
+     id="beamsplitter-znse">
+    <rect
+       style="display:inline;fill:url(#linearGradient2600);fill-opacity:1;fill-rule:nonzero;stroke:#9b0f0f;stroke-width:10.3009;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect32961-3-3-8"
+       width="35"
+       height="270"
+       x="5.1504502"
+       y="-275.15045"
+       inkscape:label="rect32961"
+       transform="rotate(90)" />
+  </g>
+</svg>
