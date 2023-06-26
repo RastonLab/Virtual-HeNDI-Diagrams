@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="154.34938"
+   height="300"
+   viewBox="0 0 154.34938 300.00001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="flat-mirror.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="146"
+     inkscape:cy="246"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19515">
+      <stop
+         style="stop-color:#e5ac00;stop-opacity:1;"
+         offset="0"
+         id="stop19511" />
+      <stop
+         style="stop-color:#ffc100;stop-opacity:1;"
+         offset="0.5"
+         id="stop19519" />
+      <stop
+         style="stop-color:#ffc61a;stop-opacity:1;"
+         offset="0.75"
+         id="stop19513" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9211">
+      <stop
+         style="stop-color:#474747;stop-opacity:1;"
+         offset="0"
+         id="stop9207" />
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0.5"
+         id="stop9215" />
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0.75"
+         id="stop9217" />
+      <stop
+         style="stop-color:#7a7a7a;stop-opacity:1;"
+         offset="0.875"
+         id="stop9219" />
+      <stop
+         style="stop-color:#4a4a4a;stop-opacity:1;"
+         offset="0.9375"
+         id="stop9221" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop9209" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9211"
+       id="linearGradient9213"
+       x1="151.26212"
+       y1="31.161926"
+       x2="203.60828"
+       y2="217.91193"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5439328,0,0,1.5439328,-70.309906,-14.717933)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19515"
+       id="linearGradient19517"
+       x1="68.873734"
+       y1="-151.04626"
+       x2="263.87372"
+       y2="-151.04626"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5443735,0,0,1.5441331,-32.483389,64.135126)" />
+  </defs>
+  <g
+     id="flat-rotatable-mirror"
+     transform="matrix(0.99987454,0,0,0.99987454,-129.24589,-27.017255)">
+    <path
+       id="ellipse4005"
+       style="fill:url(#linearGradient9213);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15.6462;stroke-dasharray:none"
+       d="M 239.91619,168.0885 A 150.53345,50.177816 75 0 0 190.69269,58.856934 l -8.35567,-31.183836 -29.8265,7.991985 8.1e-4,0.0029 a 150.53345,50.177816 75 0 0 -0.0241,0.0032 150.53345,50.177816 75 0 0 -9.50712,158.391107 150.53345,50.177816 75 0 0 87.42896,132.41718 150.53345,50.177816 75 0 0 0.0233,-0.006 l 29.82649,-7.99198 -8.2745,-30.8809 a 150.53345,50.177816 75 0 0 -12.0682,-119.51205 z" />
+    <ellipse
+       style="fill:url(#linearGradient19517);fill-opacity:1;fill-rule:evenodd;stroke-width:15.65"
+       id="path4003"
+       cx="224.45979"
+       cy="-169.10042"
+       rx="150.57642"
+       ry="50.184326"
+       transform="rotate(75)" />
+  </g>
+</svg>
