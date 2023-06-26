@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="154.34938"
+   width="130.90056"
    height="300"
-   viewBox="0 0 154.34938 300.00001"
+   viewBox="0 0 130.90056 300.00001"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="146"
-     inkscape:cy="246"
+     inkscape:zoom="1.4142135"
+     inkscape:cx="71.417786"
+     inkscape:cy="112.42998"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -103,7 +103,7 @@
   </defs>
   <g
      id="flat-rotatable-mirror"
-     transform="matrix(0.99987454,0,0,0.99987454,-129.24589,-27.017255)">
+     transform="matrix(0.9622282,0.25782827,-0.25782827,0.9622282,-87.544749,-73.600547)">
     <path
        id="ellipse4005"
        style="fill:url(#linearGradient9213);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15.6462;stroke-dasharray:none"
