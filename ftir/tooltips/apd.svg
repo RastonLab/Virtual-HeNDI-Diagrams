@@ -7,7 +7,7 @@
    viewBox="0 0 300.00003 272.25901"
    version="1.1"
    id="svg63856"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="apd.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,12 +25,12 @@
      inkscape:deskcolor="#fafafa"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="2.1250856"
-     inkscape:cx="210.57975"
-     inkscape:cy="98.113695"
-     inkscape:window-width="2498"
-     inkscape:window-height="1417"
-     inkscape:window-x="54"
+     inkscape:zoom="1.5026624"
+     inkscape:cx="41.260098"
+     inkscape:cy="109.8051"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="apd"
@@ -74,7 +74,7 @@
     <color-profile
        name="Lightness-Decrease"
        xlink:href="file:///Library/ColorSync/Profiles/Lightness%20Decrease.icc"
-       id="color-profile567" />
+       id="color-profile47509" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient65554">
@@ -103,27 +103,27 @@
        inkscape:collect="always"
        id="linearGradient64789">
       <stop
-         style="stop-color:#5a0000;stop-opacity:1;"
+         style="stop-color:#e521c5;stop-opacity:1;"
          offset="0"
          id="stop64785" />
       <stop
-         style="stop-color:#840000;stop-opacity:1;"
+         style="stop-color:#e549c5;stop-opacity:1;"
          offset="0.2"
          id="stop64793" />
       <stop
-         style="stop-color:#aa0000;stop-opacity:1;"
+         style="stop-color:#e571c5;stop-opacity:1;"
          offset="0.40000001"
          id="stop64795" />
       <stop
-         style="stop-color:#ad0000;stop-opacity:1;"
+         style="stop-color:#e574c5;stop-opacity:1;"
          offset="0.60000002"
          id="stop64797" />
       <stop
-         style="stop-color:#9d0000;stop-opacity:1;"
+         style="stop-color:#e55dc5;stop-opacity:1;"
          offset="0.79923636"
          id="stop64799" />
       <stop
-         style="stop-color:#330000;stop-opacity:1;"
+         style="stop-color:#e505c5;stop-opacity:1;"
          offset="1"
          id="stop64787" />
     </linearGradient>
