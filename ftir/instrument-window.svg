@@ -30,7 +30,7 @@
      showgrid="false"
      inkscape:zoom="0.43852552"
      inkscape:cx="1749.043"
-     inkscape:cy="1356.8196"
+     inkscape:cy="1359.0999"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -1754,7 +1754,7 @@
          transform="matrix(0.83039197,0.55717966,-0.534428,0.845214,0,0)" /></g><g
        id="beamsplitter-znse"
        transform="rotate(-45,2090.3571,-610.83552)"
-       style="display: props.beamsplitter.caf2"><rect
+       style="display: props.beamsplitter.znse"><rect
          style="display:inline;fill:url(#linearGradient13376-0);fill-opacity:1;fill-rule:nonzero;stroke:#9b0f0f;stroke-width:10.3009;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect32961-3-3-8"
          width="35"
@@ -1765,7 +1765,7 @@
          transform="rotate(90)" /></g><g
        id="beamsplitter-caf2"
        transform="rotate(-45,2091.7952,-610.4108)"
-       style="display: props.beamsplitter.znse"><rect
+       style="display: props.beamsplitter.caf2"><rect
          style="fill:url(#linearGradient13376);fill-opacity:1;stroke:#0047af;stroke-width:10.3007;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect32961-3-3"
          width="35"
