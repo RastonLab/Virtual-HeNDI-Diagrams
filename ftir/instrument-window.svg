@@ -30,7 +30,7 @@
      showgrid="false"
      inkscape:zoom="0.43852552"
      inkscape:cx="1749.043"
-     inkscape:cy="1359.0999"
+     inkscape:cy="1361.3803"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -1815,7 +1815,7 @@
          sodipodi:nodetypes="cccc" /></g><g
        id="flat-rotatable-mirror-tungsten"
        transform="matrix(0.38268343,-0.92387953,0.83726583,0.34680686,-301.16759,95.094033)"
-       style="display: props.source.mirror"><rect
+       style="display: props.source.tungsten"><rect
          style="fill:url(#linearGradient3682);fill-opacity:1;fill-rule:evenodd;stroke-width:1.00003;stroke-dasharray:none"
          id="rect2866-5-6"
          width="210"
