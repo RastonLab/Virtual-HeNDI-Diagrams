@@ -25,13 +25,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.0000001"
-     inkscape:cx="302.49998"
-     inkscape:cy="94.999995"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="2552"
-     inkscape:window-y="105"
+     inkscape:zoom="2.8284274"
+     inkscape:cx="172.71081"
+     inkscape:cy="26.693278"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      inkscape:current-layer="lecture" />
   <defs
@@ -259,5 +259,17 @@
        y="348.43384"
        ry="5.6071491"
        transform="matrix(0.99999754,0.00221727,-0.0020421,0.99999791,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:97.7207px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;dominant-baseline:central;text-anchor:middle;display:inline;fill:#000000;stroke-width:34.3549;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="545.29565"
+       y="34.356789"
+       id="molecule-value"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan877"
+         style="font-size:97.7207px;stroke-width:34.3549"
+         x="0"
+         y="0">props.molecule</tspan></text>
   </g>
 </svg>
