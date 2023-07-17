@@ -92,6 +92,10 @@
 
 ![FTIR Corner Cube (both fixed and moveable)](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/templates/corner-cube.svg)
 
+### [Display](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/templates/display.svg)
+
+![FTIR Display](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/templates/display.svg)
+
 ### [Flat Mirror (both fixed and rotatable)](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/templates/flat-mirror.svg)
 
 ![Flat Mirror (both fixed and rotatable)](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/templates/flat-mirror.svg)
