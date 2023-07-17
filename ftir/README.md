@@ -104,6 +104,10 @@
 
 ![FTIR Hose 2 (sample cell to lecture bottle)](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/templates/hose-2.svg)
 
+### [Information Icon](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/templates/information.svg)
+
+![FTIR Information Icon](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/templates/information.svg)
+
 ### [Readout](https://github.com/RastonLab/Virtual-Instrument-Diagrams/blob/main/ftir/templates/readout.svg)
 
 ![FTIR Readout](https://raw.githubusercontent.com/RastonLab/Virtual-Instrument-Diagrams/main/ftir/templates/readout.svg)
