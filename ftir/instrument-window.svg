@@ -30,7 +30,7 @@
      showgrid="false"
      inkscape:zoom="0.4385255"
      inkscape:cx="2056.8929"
-     inkscape:cy="1566.6136"
+     inkscape:cy="1568.8939"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -2859,7 +2859,7 @@
            x="542.59973"
            y="25.267046">props.molecule</tspan></text></g><g
        inkscape:label="display"
-       id="layer1"
+       id="display"
        transform="matrix(3.4801594,0,0,3.4801594,-199.02026,1846.8188)"><rect
          style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:1.14064;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          id="rect32404"
