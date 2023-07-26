@@ -2,22 +2,22 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-  width="3700"
-  height="2700"
-  viewBox="0 0 3699.9999 2700"
-  version="1.1"
-  id="instrument-window"
-  inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-  sodipodi:docname="instrument-window.svg"
-  inkscape:export-filename="..\..\..\Users\nvanf\Desktop\instrument-window.svg"
-  inkscape:export-xdpi="96"
-  inkscape:export-ydpi="96"
-  xml:space="preserve"
-  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   width="3700"
+   height="2700"
+   viewBox="0 0 3699.9999 2700"
+   version="1.1"
+   id="instrument-window"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="instrument-window.svg"
+   inkscape:export-filename="..\..\..\Users\nvanf\Desktop\instrument-window.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview6716"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="890.95452"
-     inkscape:cy="1846.9629"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="735.99998"
+     inkscape:cy="707.99998"
      inkscape:window-width="1600"
      inkscape:window-height="838"
      inkscape:window-x="-6"
@@ -41,7 +41,11 @@
        type="xygrid"
        id="grid2030"
        originx="-78.875437"
-       originy="-207.65279" /></sodipodi:namedview><defs
+       originy="-207.65279"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" /></sodipodi:namedview><defs
      id="defs6711"><linearGradient
        inkscape:collect="always"
        id="linearGradient13434"><stop
@@ -1780,7 +1784,7 @@
          transform="rotate(90)" /></g><path
        id="sample-chamber"
        d="m 1611.593,1664.928 v 15 354 h 15 v -354 h 1215 v 354 h 15 v -354 h 580 v 615 h -580 v -100 h -15 v 100 h -1215 v -100 h -15 v 100 15 h 1839.998 v 0 -645 0 H 1626.593 Z" /><g
-       id="aperture-wheel"
+       id="aperture"
        transform="matrix(0.99918729,0,0,1.1472325,-318.32431,-79.427775)"><rect
          style="fill:url(#linearGradient13050);fill-opacity:1;stroke:#000000;stroke-width:1.99971;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect2792"
