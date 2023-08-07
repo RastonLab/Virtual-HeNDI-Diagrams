@@ -7,7 +7,7 @@
    viewBox="0 0 238.24032 300"
    version="1.1"
    id="svg4953"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="mct.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,14 +25,14 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="3.85193"
-     inkscape:cx="109.55547"
-     inkscape:cy="100.72873"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:zoom="2.7237258"
+     inkscape:cx="78.75242"
+     inkscape:cy="198.44141"
+     inkscape:window-width="1353"
+     inkscape:window-height="1237"
+     inkscape:window-x="396"
+     inkscape:window-y="235"
+     inkscape:window-maximized="0"
      inkscape:current-layer="mtc" />
   <defs
      id="defs4950">
@@ -115,90 +115,6 @@
          style="stop-color:#f79e00;stop-opacity:1;"
          offset="1"
          id="stop10012" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient17339">
-      <stop
-         style="stop-color:#9a6a00;stop-opacity:1;"
-         offset="0"
-         id="stop17335" />
-      <stop
-         style="stop-color:#b48100;stop-opacity:1;"
-         offset="0.2"
-         id="stop17343" />
-      <stop
-         style="stop-color:#ca9200;stop-opacity:1;"
-         offset="0.40000001"
-         id="stop17345" />
-      <stop
-         style="stop-color:#b78910;stop-opacity:1;"
-         offset="0.60000002"
-         id="stop17347" />
-      <stop
-         style="stop-color:#e7a600;stop-opacity:1;"
-         offset="0.80245179"
-         id="stop17349" />
-      <stop
-         style="stop-color:#ca9900;stop-opacity:1;"
-         offset="1"
-         id="stop17337" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient23891">
-      <stop
-         style="stop-color:#adadad;stop-opacity:1;"
-         offset="0"
-         id="stop23887" />
-      <stop
-         style="stop-color:#d7d7d7;stop-opacity:1;"
-         offset="0.2"
-         id="stop23895" />
-      <stop
-         style="stop-color:#dddddd;stop-opacity:1;"
-         offset="0.40000001"
-         id="stop23897" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.60000002"
-         id="stop23899" />
-      <stop
-         style="stop-color:#e2e2e2;stop-opacity:1;"
-         offset="0.80000001"
-         id="stop23901" />
-      <stop
-         style="stop-color:#dadada;stop-opacity:1;"
-         offset="1"
-         id="stop23889" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient26823">
-      <stop
-         style="stop-color:#e1aa00;stop-opacity:1;"
-         offset="0"
-         id="stop26811" />
-      <stop
-         style="stop-color:#fdb500;stop-opacity:1;"
-         offset="0.2"
-         id="stop26813" />
-      <stop
-         style="stop-color:#ffc21e;stop-opacity:1;"
-         offset="0.40000001"
-         id="stop26815" />
-      <stop
-         style="stop-color:#e6ae14;stop-opacity:1;"
-         offset="0.60000002"
-         id="stop26817" />
-      <stop
-         style="stop-color:#e7a600;stop-opacity:1;"
-         offset="0.80245179"
-         id="stop26819" />
-      <stop
-         style="stop-color:#ca9900;stop-opacity:1;"
-         offset="1"
-         id="stop26821" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -394,36 +310,6 @@
          offset="1"
          id="stop67248" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient17339"
-       id="linearGradient17341-0"
-       x1="24.227865"
-       y1="86.866188"
-       x2="55.555779"
-       y2="86.866188"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.705673,0,0,2.705673,-39.225022,-28.900305)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient23891"
-       id="linearGradient23893-4"
-       x1="29.38974"
-       y1="87.341522"
-       x2="48.031143"
-       y2="87.341522"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.7056731,0,0,2.7056731,-38.961403,-29.254724)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient26823"
-       id="linearGradient26083-8"
-       gradientUnits="userSpaceOnUse"
-       x1="24.227865"
-       y1="86.866188"
-       x2="55.555779"
-       y2="86.866188"
-       gradientTransform="matrix(0.96210298,0,0,0.90645602,28.6388,127.62377)" />
   </defs>
   <g
      inkscape:label="mtc"
@@ -457,7 +343,7 @@
        style="fill:url(#linearGradient7094-6);fill-opacity:1;stroke-width:5.7472;stroke-linecap:square;paint-order:markers stroke fill"
        d="m 139.82815,275.30489 a 80.893987,1.78009 0 0 0 -80.84646,1.74875 H 58.49512 V 300 h 162.54183 v -22.94636 h -0.32875 a 80.893987,1.78009 0 0 0 -80.88005,-1.74875 z" />
     <ellipse
-       style="fill:url(#linearGradient17341-0);fill-opacity:1;stroke-width:18.3877;stroke-linecap:square;paint-order:markers stroke fill"
+       style="fill:#e7a600;fill-opacity:1;stroke-width:18.3877;stroke-linecap:square;paint-order:markers stroke fill"
        id="path12977-7"
        cx="68.709206"
        cy="206.13121"
@@ -465,7 +351,7 @@
        ry="65.849014"
        transform="rotate(-1.2742597)" />
     <ellipse
-       style="fill:url(#linearGradient23893-4);fill-opacity:1;stroke-width:22.6585;stroke-linecap:square;paint-order:markers stroke fill"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:22.6585;stroke-linecap:square;paint-order:markers stroke fill"
        id="path21707-9"
        cx="65.77639"
        cy="207.06288"
@@ -473,7 +359,7 @@
        ry="41.681023"
        transform="rotate(-1.7937035)" />
     <ellipse
-       style="fill:url(#linearGradient26083-8);fill-opacity:1;stroke-width:6.34651;stroke-linecap:square;paint-order:markers stroke fill"
+       style="fill:#e7a600;fill-opacity:1;stroke-width:6.34651;stroke-linecap:square;paint-order:markers stroke fill"
        id="ellipse26081-1"
        cx="67.018845"
        cy="206.36417"
