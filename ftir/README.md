@@ -4,6 +4,28 @@
 
 ![FTIR Instrument Window](instrument-window.svg)
 
+### Rotatable Mirror Angles
+
+#### Detector mirrors
+
+- InSb
+
+![FTIR InSb angle template](templates/insb-angles.svg)
+
+- MCT
+
+![FTIR MCT angle template](templates/mct-angles.svg)
+
+#### Source mirrors
+
+- Globar
+
+![FTIR Globar angle template](templates/globar-angles.svg)
+
+- Tungsten
+
+![FTIR Tungsten angle template](templates/tungsten-angles.svg)
+
 ## Tooltip Images
 
 ### [APD](tooltips/apd.svg)
