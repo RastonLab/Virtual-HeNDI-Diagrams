@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="104.6518"
+     inkscape:cy="65.142211"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient14"
+       inkscape:collect="always"
+       inkscape:label="rainbow">
+      <stop
+         style="stop-color:#ff3232;stop-opacity:1;"
+         offset="0.12"
+         id="stop14" />
+      <stop
+         style="stop-color:#ff9632;stop-opacity:1;"
+         offset="0.23999999"
+         id="stop16" />
+      <stop
+         style="stop-color:#ffff32;stop-opacity:1;"
+         offset="0.38"
+         id="stop17" />
+      <stop
+         style="stop-color:#96f53c;stop-opacity:1;"
+         offset="0.5"
+         id="stop18" />
+      <stop
+         style="stop-color:#1ec3e6;stop-opacity:1;"
+         offset="0.63999999"
+         id="stop19" />
+      <stop
+         style="stop-color:#3232ff;stop-opacity:1;"
+         offset="0.77999997"
+         id="stop20" />
+      <stop
+         style="stop-color:#9605ff;stop-opacity:1;"
+         offset="0.89999998"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient15"
+       x1="0"
+       y1="13.229166"
+       x2="26.458332"
+       y2="13.229166"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(16.754363,-7.3269693e-7,3.3345822e-7,16.754363,96.585815,-221.64621)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(0.22222223,0,0,0.22222223,-0.00533559,-0.00533424)">
+    <circle
+       style="fill:url(#linearGradient15);fill-rule:nonzero;stroke:#000000;stroke-width:6.75001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path14"
+       cx="318.23199"
+       cy="9.5671479e-05"
+       r="221.64626"
+       transform="rotate(44.999982)" />
+    <path
+       d="m 246.47376,247.25869 q 0,-9.09375 9.84375,-13.96875 2.25,-0.9375 5.0625,-0.9375 h 25.5 v 98.34375 h 98.71875 v 1.96875 q 0,13.6875 -12.75,25.875 -11.0625,8.25 -21.375,8.25 h -105 z"
+       id="text27"
+       style="font-style:italic;font-size:192px;font-family:CANAVAR;-inkscape-font-specification:'CANAVAR, Italic';stroke:#ffffff;stroke-width:5"
+       aria-label="L" />
+    <path
+       style="font-style:italic;font-size:192px;font-family:CANAVAR;-inkscape-font-specification:'CANAVAR, Italic';stroke:#ffffff;stroke-width:5"
+       d="m 82.117761,169.86776 q 0,-9.28125 7.03125,-19.5 11.156249,-14.53125 30.281249,-14.53125 h 2.90625 v 19.6875 h 76.3125 q 7.3125,0 11.71875,-3.84375 4.40625,-3.9375 4.40625,-11.25 v -2.625 q 0,-10.96875 -10.21875,-14.34375 -1.40625,-0.5625 -3.9375,-0.5625 h -78.28125 q -16.125,0 -23.71875,-5.90625 -3.5625,-2.15625 -6.656249,-5.25 -3,-3.1875 -5.25,-7.03125 -2.15625,-3.9375 -3.375,-8.437499 -1.21875,-4.59375 -1.21875,-9.46875 H 201.08651 q 11.53125,0 21.375,3.65625 9.9375,3.65625 17.15625,10.499999 7.3125,6.84375 11.4375,16.6875 4.125,9.84375 4.125,22.125 0,28.03125 -23.34375,43.40625 h -0.1875 v 0.1875 l 36.28125,37.6875 v 0.1875 h -53.15625 l -28.875,-29.625 h -63.5625 v 29.53125 H 82.117761 Z"
+       id="text46" />
+  </g>
+</svg>
